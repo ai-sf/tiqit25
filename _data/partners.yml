@@ -1,0 +1,60 @@
+text: Partners
+
+img: img/partner4.png
+mail:  trento@ai-sf.it
+
+slideshow:
+  - img: img/slide/lampo.jpg
+  - img: img/slide/tipo.jpg
+  - img: img/slide/cibo.jpg
+
+
+cards:
+    - size: "small"
+      items:
+        - title: "Fondazione Caritro"
+          site: "https://www.fondazionecaritro.it/"
+          img: "img/partners/caritro.png"
+        - title: "Physics Department of Trento"
+          site: "http://www.physics.unitn.it/en"
+          img: "img/partners/logodipfisica.jpg"
+        - title: "TIFPA - INFN"
+          site: "https://www.tifpa.infn.it/"
+          img: "img/partners/nuovo-logo-TIFPA.png"
+        - title: "Q@TN"
+          site: "https://www.quantumtrento.eu/"
+          img: "img/partners/Qattn.jpg"
+        - title: "Provincia Autonoma di Trento"
+          site: "https://www.provincia.tn.it/"
+          img: "img/partners/logo-pat.png"
+        - title: "Comune di Trento"
+          site: "https://www.comune.trento.it/"
+          img: "img/partners/logo-comune.png"
+        - title: "Circoscrizione di Povo"
+          site: "https://www.comune.trento.it/Comune/Organi-politici/Circoscrizioni/Circoscrizione-n.-07-Povo"
+          img: "img/partners/logo-circoscrizione.png"
+        #- title: "Innsbruck Physics Research Center"
+        #  site: "https://www.uibk.ac.at/sp-physik/"
+        #  img: "img/partners/innsbruckphys.jpg"
+        - title: "University of Innsbruck"
+          site: "https://www.uibk.ac.at/index.html.en"
+          img: "img/partners/uniinns.jpg"
+        #- title: "BEC group"
+        #  site: "https://bec.science.unitn.it/BEC/0_Home.html"
+        #  img: "img/partners/logo-bec-2.jpg"
+        - title: "Bruno Kessler Foundation"
+          site: "https://www.fbk.eu/it/"
+          img: "img/partners/FBK_BASE.png"
+        - title: "Italien-Zentrum"
+          site: "https://www.uibk.ac.at/italienzentrum/index.html.it"
+          img: "img/partners/itzentrum.jpg"
+        # - title: "IAPS"
+        #   site: "https://www.iaps.info/"
+        #   img: "img/partners/iaps-logo.png"
+        - title: "IQOQI"
+          site: "https://www.iqoqi.at/en/"
+          img: "img/partners/LogoIQOQI.png"
+        - title: "Innsbruck Physics Research Center"
+          site: "https://www.uibk.ac.at/sp-physik/"
+          img: "img/partners/innsbruckphys.jpg"
+          

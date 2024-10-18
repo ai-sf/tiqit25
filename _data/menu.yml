@@ -1,0 +1,13 @@
+- text: "Facilities"
+  url: "facilities"
+- text: "Programme"
+  url: "programme"
+- text: "Registration"
+  url:  "registration"
+- text: "Partners"
+  url: "partners"
+# - text: "Transportation"
+#   url: "transportation"
+- text: "AISF"
+  icon: "public"
+  url: http://www.ai-sf.it

@@ -1,0 +1,448 @@
+description:
+    title: "General Info"
+    paragraphs:
+        - paragraph:
+            - line: "The Trento-Innsbruck Quantum Information Tour is finally coming back!"
+        - paragraph:
+            - line: "The event will have a focus on Bose-Einstein Condensation, Nanoscience, Quantum Optics and Quantum Information. The language of the talks will be English."
+            - line: "Students will be given lectures on forefront theoretical and experimental research in this fields by academics and prominent figures in Trento and Innsbruck environment."
+        - paragraph:
+            #- line: "The event will start in Innsbruck with ..."
+            # - line: "On Tuesday students will be hosted in the morning by Bruno Kessler Foundation and in the afternoon will be guided through the nanoscience labs."
+            # - line: "The following day participants will move to Innsbruck to visit the Institute for Quantum Optics and Quantum Information."
+            # - line: "The morning of the final day will be spent at the Physics Department of Innsbruck University. After lunch a private bus will take to Trento participants who need to return there."
+        - paragraph:
+            - line: "You can find the detailed program below, <b>which is subject to change and will be constantly updated</b>."
+
+last_update: 22/11/2023
+
+schedule:
+  - day: "Sunday"
+    date: "18/02/2024"
+    location: "Innsbruck"
+    activity:
+      - hour: "18:00"
+        name: "Welcome ceremony (drinks and snacks)"
+        location:
+            name: "IQOQI"
+            tag: "iqoqi"
+  
+  - day: "Monday"
+    date: "19/02/2024"
+    location: "Innsbruck"
+    activity:
+      - hour: "9:00"
+        name: "Plenary lectures"
+        location:
+          name: "IQOQI"
+          tag: "iqoqi"
+          room: "IQOQI Schrödingersaal"
+        subactivities: 
+            - title: "Laser cooling and trapping"
+              people:
+                name: "prof. Rudolf Grimm"
+                tag: "grimm"
+            - title: "Dipolar Quantum Gases"
+              people:
+                name: "prof. Francesca Ferlaino"
+                tag: "ferlaino"
+      - hour: "11:00"
+        name: "Coffee Break"
+        location:
+          name: "IQOQI"
+          tag: "iqoqi"
+          room: "TBD"
+      - hour: "11:30"
+        name: "Plenary lecture"
+        location:
+          name: "IQOQI"
+          tag: "iqoqi"
+          room: "IQOQI Schrödingersaal"
+        subactivities: 
+            - title: "Simulating exotic phases of quantum gases"
+              people:
+                name: "ass. prof. Russell Bisset"
+                tag: "bisset"
+      - hour: "12:30"
+        name: "Lunch and open discussion with prof. Ferlaino"
+        location:
+          name: "TechCafé/Mensa"
+          tag: "techcafe"
+          #room: "TBD"
+      - hour: "15:00"
+        name: "IQOQI Lab tour (Part I)"
+        location:
+            name: "IQOQI"
+            tag: "iqoqi"
+            room: "IQOQI Laboratories" 
+      - hour: "17:30"
+        name: "Group activity"
+        location:
+            name: "City center"
+            tag: "city"
+      - hour: "20:00"
+        name: "Dinner"
+        location:
+          name: "TBD"
+          tag: "TBD"
+            
+  - day: "Tuesday"
+    date: "20/02/2024"
+    location: "Innsbruck"
+    activity:
+      - hour: "9:00"
+        name: "Plenary lectures"
+        location:
+          name: "IQOQI"
+          tag: "iqoqi"
+          room: "IQOQI Schrödingersaal"
+        subactivities: 
+            - title: "Fermionic quantum mixtures"
+              people:
+                name: "Dr. Cosetta Baroni"
+                tag: "baroni"
+            - title: "Quantum applications with rydberg atoms"
+              people:
+                name: "Dr. Robert Ott"
+                tag: "ott"
+      - hour: "11:00"
+        name: "Coffee Break"
+        location:
+          name: "IQOQI"
+          tag: "iqoqi"
+          room: "TBD"
+      - hour: "11:30"
+        name: "Plenary lecture"
+        location:
+          name: "IQOQI"
+          tag: "iqoqi"
+          room: "IQOQI Schrödingersaal"
+        subactivities: 
+            - title: "Superconducting quantum circuits"
+              people:
+                name: "Prof. Gerhard Kirchmair"
+                tag: "kirchmair"
+      - hour: "12:30"
+        name: "Lunch"
+        location:
+          name: "TechCafé/Mensa"
+          tag: "techcafe"
+          #room: "TBD"
+      - hour: "13:45"
+        name: "Group photo"
+      - hour: "14:00"
+        name: "IQOQI Lab tour (Part II)"
+        location:
+            name: "IQOQI"
+            tag: "iqoqi"
+            room: "IQOQI Laboratories" 
+      - hour: "16:30"
+        name: "Meeting session with UIBK PhD students"
+        location:
+            name: "IQOQI"
+            tag: "iqoqi"
+            #room: "IQOQI Laboratories"
+      
+    
+      # - hour: "19:00"
+      #   name: "Check in at the hotel"
+      #   location:
+      #       name: "Hotel Jugendherberge"
+      #       tag: "hotel_innsbruck"
+      
+  - day: "Wednesday"
+    date: "21/02/2024"
+    location: "Innsbruck/Trento"
+    activity:
+      - hour: "9:00"
+        name: "Plenary lectures"
+        location:
+          name: "IQOQI"
+          tag: "iqoqi"
+          room: "IQOQI Schrödingersaal"
+        subactivities: 
+            - title: "Variational Quantum Metrology"
+              people:
+                name: "Dr. Denis Vasilyev"
+                tag: "vasilyev"
+            - title: "Quantum physics with trapped ions"
+              people:
+                name: "Dr. Christian Roos"
+                tag: "roos"
+      - hour: "11:00"
+        name: "Awards ceremony and final remarks"
+        location:
+          name: "IQOQI"
+          tag: "iqoqi"
+          room: "IQOQI Schrödingersaal"
+      - hour: "11:45"
+        name: "Lunch"
+        location:
+          name: "TechCafé/Mensa"
+          tag: "techcafe"
+      - hour: "15:24"
+        name: "Departure to Trento"
+        location:
+          name: "Innsbruck Hauptbanhof"
+          tag: "hauptbanhof"
+      - hour: "18:02"
+        name: "Arrival in Trento and check in at the hostel"
+        location:
+          name: "Ostello Trento"
+          tag: "hosteltrento"
+      - hour: "19:00"
+        name: "Dinner at Pizzium"
+        location:
+          name: "Pizzium"
+          tag: "pizzium"
+      - hour: "21:00"
+        name: "<b>Cosa (non) è la Meccanica Quantistica</b> - Talk about Quantum Physics open to everyone"
+        location:
+          name: "Fondazione Caritro"
+          tag: "caritro" 
+
+  - day: "Thursday"
+    date: "22/02/2024"
+    location: "Trento"
+    activity:
+      # - hour: "9:00"
+      #   name: "AISF Trento Local Committee introduction"
+      #   location: 
+      #     name: "Physics Department"
+      #     tag: "physunitn"
+      #     room: "Room TBD"
+      - hour: "9:00"
+        name: "Plenary lecture"
+        location:
+          name: "Physics Department"
+          tag: "physunitn"
+          room: "Aula A108 (Povo 1)"
+        subactivities:
+          - title: "Experiments on magnetism with superfluid spin mixtures"
+            people:
+              name: "dr. Giacomo Lamporesi, senior CNR researcher"
+              tag: "lamporesi"
+          - title: "Quantum MC methods applied to Bose mixtures"
+            people:
+              name: "prof. Stefano Giorgini, associate professor at UNITN"
+              tag: "giorgini"
+          - title: "Simulating black-hole physics in a lab with ultracold atoms"
+            people:
+              name: "Anna Berti, PhD student at UNITN / CNR fellow"
+              tag: "berti"
+          - title: "Supersolids on a ring"
+            people:
+              name: "Marija Šindik, PhD student at UNITN"
+              tag: "sindik"
+      - hour: "10:30"
+        name: "Coffee break"
+        location: 
+          name: "Physics department"
+          tag: "physunitn"
+          room: "Aula multifunzionale (Povo 1)"
+      - hour: "11:00"
+        name: "Plenary lecture"
+        location:
+          name: "Physics Department"
+          tag: "physunitn"
+          room: "Aula A108 (Povo 1)"
+        subactivities:
+          - title: "Open quantum matter"
+            people:
+              name: "dr. Alberto Biella, CNR researcher"
+              tag: "biella"
+          - title: "Quantum devices for simulation and computation"
+            people:
+              name: "dr. Soumik Bandyopadhyay, postdoc at UNITN"
+              tag: "bandy"
+          - title: "Quantum ElectroDynamics in solid-state nanosystems"
+            people:
+              name: "dr. Gianluca Rastelli, CNR researcher"
+              tag: "rastelli"
+          - title: "Superfluids of light"
+            people:
+              name: "dr. Iacopo Carusotto, research director, CNR"
+              tag: "carusotto"
+
+      - hour: "12:00"
+        name: "Lunch at Rosticceria"
+        location: 
+          name: "Sapori di Gastronomia"
+          tag: "rosticceria"
+      - hour: "14:00"
+        name: "Plenary lecture"
+        location:
+          name: "Physics Department"
+          tag: "physunitn"
+          room: "Aula A108 (Povo 1)"
+        subactivities:
+          - title: "Introduction to the Nanoscience Laboratory and its activity"
+            people:
+              name: "prof. Lorenzo Pavesi, full professor"
+              tag: "pavesi"
+          - title: "Quantum photon sources"
+            people:
+              name: "prof. Stefano Azzini, associate professor"
+              tag: "azzini"
+      - hour: "15:30"
+        name: "Coffee break"
+        location: 
+          name: "Physics department"
+          tag: "physunitn"
+          room: "Aula multifunzionale (Povo 1)"
+      - hour: "16:00"
+        name: "Plenary lecture"
+        location:
+          name: "Physics Department"
+          tag: "physunitn"
+          room: "Aula A108 (Povo 1)"
+        subactivities:
+          - title: "Programmable silicon photonics circuits for quantum computing and simulation"
+            people:
+              name: "dr. Alessio Baldazzi, postdoc"
+              tag: "baldazzi"
+          - title: "A photonic kernel for quantum machine learning"
+            people:
+              name: "dr. Nicolò Leone, postdoc"
+              tag: "leone"
+      - hour: "17:30"
+        name: "Free time"
+      - hour: "19:30"
+        name: "Dinner at Rosa D'Oro"
+        location: 
+          name: "Ristorante Pizzeria Rosa D'Oro"
+          tag: "rosadoro"
+
+  - day: "Friday"
+    date: "23/02/2024"
+    location: "Trento"
+    activity:
+      - hour: "8:30"
+        name: "Visit to BEC laboratories"
+        location:
+          name: "Physics department"
+          tag: "physunitn"
+          room: "CNR-University Laboratories (Povo 0)"
+        subactivities:
+          - title: "CNR-University Lab tour"
+            people:
+              name: "dr. Alessandro Zenesini, dr. Riccardo Cominotti, Chiara Rogora, Diego Andreoni"
+      - hour: "10:00"
+        name: "Coffee break"
+        location: 
+          name: "Physics department"
+          tag: "physunitn"
+          room: "Aula Ex-Tesi (Povo 0)"
+      - hour: "10:30"
+        name: "Visit to NanoLabs laboratories"
+        location:
+          name: "NanoLabs"
+          tag: "nanolabs"
+          room: "Nanolabs Laboratories (Povo 0)"
+      - hour: "12:00"
+        name: "Lunch at Pizza Rio"
+        location: 
+          name: "Pizza Rio"
+          tag: "pizzario"
+      - hour: "13:30"
+        name: "Quantum computing workshop (lecture)"
+        location:
+          name: "Physics department"
+          tag: "physunitn"
+          room: "Aula B108 (Povo 2)"
+        subactivities:
+          - title: "Quantum Simulation for Nuclear Physics"
+            people:
+              name: "dr. Alessandro Roggero"
+          - title: "Pulse level control of quantum computers"
+            people:
+              name: "prof. Francesco Pederiva"
+          - title: "TBD"
+            people:
+              name: "Alberto Bottarelli"
+          - title: "TBD"
+            people:
+              name: "Julius Mildenberg"
+          - title: "Introduction to quantum circuits"
+            people:
+              name: "dr. Soumik Bandyopadhyay"
+      - hour: "15:00"
+        name: "Coffee break"
+        location: 
+          name: "Physics department"
+          tag: "physunitn"
+          room: "Atrio (Povo 2)"
+      - hour: "15:30"
+        name: "Quantum computing workshop (practice)"
+        location:
+          name: "Physics department"
+          tag: "physunitn"
+          room: "Aula PC B106 (Povo 2)"
+        subactivities:
+          - title: "Hands on session"
+            people:
+              name: "dr. Soumik Bandyopadhyay"
+      - hour: "17:30"
+        name: "Free time"
+      - hour: "19:30"
+        name: "Dinner at Forst"
+        location: 
+          name: "Forsterbräu Trento"
+          tag: "forst"
+  
+  - day: "Saturday"
+    date: "24/02/2024"
+    location: "Trento"
+    activity:
+      - hour: "9:00"
+        name: "Orientation moment"
+        location:
+          name: "Physics Department"
+          tag: "physunitn"
+          room: "Aula A209 and Aula A210 (Povo 1)"
+      - hour: "10:00"
+        name: "FBK plenary lectures"
+        location:
+          name: "FBK"
+          tag: "fbk"
+          room: "TBD"
+      - hour: "10:30"
+        name: "FBK lab tour"
+        location:
+          name: "FBK"
+          tag: "fbk"
+          room: "FBK Laboratories"
+      - hour: "12:00"
+        name: "Closing ceremony"
+        location: 
+          name: "Physics department"
+          tag: "physunitn"
+          room: "TBD" 
+      
+sections:
+  - name: "Partecipation fee and requirements"
+    points:
+    - text: "In order to sign up for the event you must be an AISF or IAPS member"
+    - text: "Participation fee is different whether you need the accommodation:"
+      subpoints:
+        - text: "Fee is of 40€ without accomodation in Trento or Innsbruck"
+        - text: "Fee is of 100€ with included accomodation in Innsbruck for the nights of Sunday, Monday and Tuesday and in Trento for the nights of Wednesday, Thursday and Friday."
+        - text: "The final fee might be reduced thanks to some sponsor, but can't be raised. We'll let you know the final price before the event starts."
+    - text: "Such fee will cover:" 
+      subpoints:
+        - text: "Accomodation in Innsbruck and Trento"
+        - text: "Lunches and dinners included in the programme above. Thanks to some sponsor we might add other meals in the programme."
+        - text: "All breakfasts"
+        - text: "Local transportation in Trento and Innsbruck"
+        - text: "Train transportation from Innsbruck to Trento"
+        - text: "Welcome bag"
+    - text: "Participants who need to arrive and sleep in Innsbruck on Saturday 17th, and/or to leave from Trento on Sunday 25th, can contact the Organising Committee, who will help find a suitable accomodation for the extra night(s)."
+    - text: "Please notice that participation fees <b>does not cover</b> the following:"
+      subpoints:
+        - text: "Journeys to Innsbruck and from Trento to arrive at the event and leave once it is concluded"
+        - text: "Lunches and dinners not included in the programme."
+        - text: "Insurance"
+        - text: "Everything else not included in: 'such fee will cover'"
+    - text: "Note: if you are Italian and you are not an AISF member yet you can become an AISF member at <a href='https://ai-sf.it/iscrizione/'>this</a> link."
+    - text: "Note: if you are not Italian and you are not an IAPS member, please contact us (<a href='mailto:tiqit24@ai-sf.it'>tiqit24@ai-sf.it</a>) or your National Committee for your IAPS registration. <a href='https://iaps.info/members/'>Here</a> you can find a list of IAPS National Committees."
+    - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time."
