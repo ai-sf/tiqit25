@@ -2,14 +2,14 @@ title: Associazione Italiana Studenti di Fisica
 descr: The Associazione Italiana Studenti di Fisica (AISF) gathers together most of the Italian physics students. It was founded in Heidelberg in August 2014 and since January 2015 is a National Committee for the International Association of Physics Students (IAPS).
 
 contact:
-  - name: TIQIT24
-    mail: tiqit24@ai-sf.it
+  - name: TIQIT25
+    mail: tiqit25@ai-sf.it
   - name: AISF
     mail: esecutivo@ai-sf.it
   - name: AISF Trento
     mail: trento@ai-sf.it
   - name: Contact person
-    mail: anna.do@ai-sf.it
+    mail: nicola.pretto@ai-sf.it
 
 connect:
   # - name: Facebook
@@ -35,5 +35,5 @@ images:
     shape: "rect"
   - link: "img/organizers/trento_logo.png"
     shape: "rect"
-  - link: "img/organizers/TAUT_logo.png"
-    shape: "rect"
+  # - link: "img/organizers/TAUT_logo.png"
+  #   shape: "rect"
