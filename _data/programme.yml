@@ -10,7 +10,7 @@ description:
             #- line: "The event will start in Innsbruck with ..."
             # - line: "On Tuesday students will be hosted in the morning by Bruno Kessler Foundation and in the afternoon will be guided through the nanoscience labs."
             # - line: "The following day participants will move to Innsbruck to visit the Institute for Quantum Optics and Quantum Information."
-            # - line: "The morning of the final day will be spent at the Physics Department of Innsbruck University. After lunch a private bus will take to Trento participants who need to return there."
+            # - line: "The morning of the final day will be spent at the Physics Department of Innsbruck University. After lunch, a private bus will take to Trento participants who need to return there."
         - paragraph:
             # - line: "You can find the detailed program below, <b>which is subject to change and will be constantly updated</b>."
             - line: "You can find an early version of the schedule below, <b>which is subject to change and will be constantly updated</b>."
@@ -229,18 +229,18 @@ sections:
     - text: "<b>Note</b>: Participation fee is subject to change and will be updated as soon as possible."
     - text: "Participation fee is different whether you need the accommodation:"
       subpoints:
-        - text: "Fee is of around 40€ without accomodation in Trento or Innsbruck"
-        - text: "Fee is of around 100€ with included accomodation in Innsbruck for the nights of Monday and Tuesday and in Trento for the nights of Wednesday, Thursday and Friday."
-        #- text: "The final fee might be reduced thanks to some sponsor, but can't be raised. We'll let you know the final price before the event starts."
+        - text: "Fee is of around 40€ without accommodation in Trento or Innsbruck"
+        - text: "Fee is of around 100€ with included accommodation in Innsbruck for the nights of Monday and Tuesday and in Trento for the nights of Wednesday, Thursday and Friday."
+        #- text: "The final fee might be reduced thanks to some sponsors, but can't be raised. We'll let you know the final price before the event starts."
     - text: "Such fee will cover:" 
       subpoints:
-        - text: "Accomodation in Innsbruck and Trento"
-        - text: "Lunches and dinners included in the programme above. Thanks to some sponsor we might add other meals in the programme."
+        - text: "accommodation in Innsbruck and Trento"
+        - text: "Lunches and dinners included in the programme above. Thanks to some sponsors we might add other meals to the programme."
         #- text: "All breakfasts"
         - text: "Local transportation in Trento and Innsbruck"
         - text: "Train transportation from Innsbruck to Trento"
         - text: "Welcome bag"
-    - text: "Participants who need to arrive and sleep in Innsbruck before Monday 17th, and/or to leave from Trento after Saturday 22nd, can contact the Organising Committee, who will help find a suitable accomodation for the extra night(s)."
+    - text: "Participants who need to arrive and sleep in Innsbruck before Monday 17th, and/or to leave from Trento after Saturday 22nd, can contact the Organising Committee, who will help find a suitable accommodation for the extra night(s)."
     - text: "Please notice that participation fees <b>does not cover</b> the following:"
       subpoints:
         - text: "Journeys to Innsbruck and from Trento to arrive at the event and leave once it is concluded"

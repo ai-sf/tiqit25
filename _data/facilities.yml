@@ -4,14 +4,14 @@ cards:
       items:
         - img: img/facilities/trento.jpg
           title: University of Trento - Physics Department
-          descr: "The University of Trento is a recent, medium-sized university: the Department of Physics was established in 2012 after its researchers had been engaged in many key sectors for almost 40 years. During this event the University will host talks focused on the research performed in Trento about Bose-Einstein condensation and Nanosciense"
+          descr: "The University of Trento is a recent, medium-sized university: the Department of Physics was established in 2012 after its researchers had been engaged in many key sectors for almost 40 years. During this event, the University will host talks focused on the research performed in Trento about Bose-Einstein condensation and Nanoscience"
           site: http://www.physics.unitn.it/en
           tag: "physunitn"
           map: https://www.google.it/maps/place/Univerit%C3%A0+degli+Studi+di+Trento+-+Dipartimento+di+Fisica/@46.0656159,11.148685,17z/data=!3m1!4b1!4m5!3m4!1s0x4782769503350cd5:0xa557831d5cbc7740!8m2!3d46.0656122!4d11.1508737
 
         - img: img/facilities/ipc_foto_giusta.jpg
           title: Innsbruck Physics Research Center
-          descr: "The Innsbruck Physics Research Center conducts many researches about a broad range of modern topics in physics. The Center is organized along three main research areas: Astro- and Astroparticle Physics, Ion- and Applied Physics, and Quantum Physics. The Center cooperates with many research institutions worldwide and provides a truly international environment for researchers from all over the world. "
+          descr: "The Innsbruck Physics Research Center conducts much research about a broad range of modern topics in physics. The Center is organized along three main research areas: Astro- and Astroparticle Physics, Ion- and Applied Physics, and Quantum Physics. The Center cooperates with many research institutions worldwide and provides a truly international environment for researchers from all over the world. "
           site: https://www.uibk.ac.at/sp-physik/
           tag: "uniinn"
           map: https://www.google.it/maps/place/Technikerstra%C3%9Fe+25,+6020+Innsbruck,+Austria/@47.2650023,11.3409642,17z/data=!3m1!4b1!4m5!3m4!1s0x479d6b73fe395b3b:0x1243e7c276a525fa!8m2!3d47.2649991!4d11.3428721
@@ -26,14 +26,13 @@ cards:
         - img: img/facilities/fbk.jpg
           title: FBK (Fondazione Bruno Kessler)
           tag: "fbk"
-          descr: "Fondazione Bruno Kessler is a research non-profit public interest entity. Just across the street from the Physics Department of Trento, it is ranked at the 1st place for scientific excellence within 3 different subject areas (ICT, History and Sociology) in Italy. During our event we will have the opportunity to visit this reserch center."
+          descr: "Fondazione Bruno Kessler is a research non-profit public interest entity. Just across the street from the Physics Department of Trento, it is ranked 1st place for scientific excellence within 3 different subject areas (ICT, History and Sociology) in Italy. During our event, we will have the opportunity to visit this research center."
           site: https://www.fbk.eu/en/
           map: https://www.google.it/maps/place/Fondazione+Bruno+Kessler+_+Polo+Scientifico/@46.0670962,11.1492215,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xb42c31a4b5463d3f!8m2!3d46.0670377!4d11.1514664
         
         # - img: img/facilities/foto-caritro.jpg
         #   title: Fondazione Caritro
         #   tag: "caritro"
-        #   # descr: "Fondazione Bruno Kessler is a research non-profit public interest entity. Just across the street from the Physics Department of Trento, it is ranked at the 1st place for scientific excellence within 3 different subject areas (ICT, History and Sociology) in Italy. During our event we will have the opportunity to visit this reserch center."
         #   site: https://www.fondazionecaritro.it/
         #   map: https://www.google.com/maps/place/Fondazione+Cassa+di+Risparmio+di+Trento+e+Rovereto/@46.0669179,11.119908,17z/data=!3m1!4b1!4m6!3m5!1s0x4782714b3d00cfdf:0xd5f8ffeb7c2d8d6e!8m2!3d46.0669179!4d11.1224829!16s%2Fg%2F1wj_s3q6?entry=ttu
 
