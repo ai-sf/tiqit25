@@ -15,21 +15,23 @@
         </ul>
       </div>
       <div class="col l3 m6 s6">
-        <h5 class="white-text">Connect</h5>
+        <h5 class="white-text">Follow us</h5>
         <ul>
           {% for item in site.data.footer.connect %}
-	        <li>
-            <a class="white-text" href="{{item.url}}" target="_blank"><img src="{{site.url}}/{{item.img}}"></a>
-            <a class="white-text" href="{{item.url}}" target="_blank">{{ item.name }}</a>
+          <li style="margin-bottom: 16px;"></li>
+        <a class="white-text" href="{{item.url}}" target="_blank" style="display: flex; align-items: center; font-size: 16px;">
+          <img src="{{site.url}}/{{item.img}}" alt="{{ item.name }}" style="margin-right: 12px; height: 32px;">
+          <span>{{ item.name }}</span>
+        </a>
           </li>
-	        {% endfor %}
+          {% endfor %}
         </ul>
       </div>
     </div>
   </div>
   <div class="footer-copyright">
     <div class="container">
-      Built with Jekyll and materializecss by
+      Built with <a class="white-text text-accent-3" href="https://jekyllrb.com/" target="_blank">Jekyll</a> and <a class="white-text text-accent-3" href="https://materializecss.com/" target="_blank">materializecss</a> by
       {% for item in site.data.footer.creator%}
         <a class="white-text text-accent-3" href="{{ item.link }}">{{ item.name }}</a>{% if forloop.last %}.{% else %},{% endif %}
       {% endfor %}

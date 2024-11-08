@@ -229,8 +229,8 @@ sections:
     - text: "<b>Note</b>: Participation fee is subject to change and will be updated as soon as possible."
     - text: "Participation fee is different whether you need the accommodation:"
       subpoints:
-        - text: "Fee is of around 40€ without accommodation in Trento or Innsbruck"
-        - text: "Fee is of around 100€ with included accommodation in Innsbruck for the nights of Monday and Tuesday and in Trento for the nights of Wednesday, Thursday and Friday."
+        - text: "Fee is of 40€ without accommodation in Trento or Innsbruck"
+        - text: "Fee is of 100€ with included accommodation in Innsbruck for the nights of Monday and Tuesday and in Trento for the nights of Wednesday, Thursday and Friday."
         #- text: "The final fee might be reduced thanks to some sponsors, but can't be raised. We'll let you know the final price before the event starts."
     - text: "Such fee will cover:" 
       subpoints:
@@ -248,5 +248,5 @@ sections:
         - text: "Insurance"
         - text: "Everything else not included in: 'such fee will cover'"
     - text: "Note: if you are Italian and you are not an AISF member yet you can become an AISF member at <a href='https://ai-sf.it/iscrizione/'>this</a> link."
-    - text: "Note: if you are not Italian and you are not an IAPS member, please contact us (<a href='mailto:tiqit@ai-sf.it'>tiqit@ai-sf.it</a>) or your National Committee for your IAPS registration. <a href='https://iaps.info/members/'>Here</a> you can find a list of IAPS National Committees."
+    - text: "Note: if you are not Italian and you are not an IAPS member, please contact us (<a href='mailto:tiqit@ai-sf.it'>tiqit@ai-sf.it</a>) or your Territorial Committee for your IAPS registration. <a href='https://iaps.info/members/'>Here</a> you can find a list of IAPS Territorial Committees."
     - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time."

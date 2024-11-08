@@ -15,13 +15,13 @@ sections:
       points:
         - text: "In order to enroll in the event you must be an IAPS member (if you are an AISF member, you are automatically an IAPS member)."
         - text: "<b>Note</b>: if you are Italian and you are not an AISF member yet, you can become an AISF member at <a href='https://ai-sf.it/iscrizione/'>this link</a>."
-        - text: "<b>Note</b>: if you are not Italian and you are not an IAPS member, please contact us (<a href='mailto:tiqit@ai-sf.it'>tiqit@ai-sf.it</a>) or your National Committee for your IAPS registration. <a href='https://iaps.info/members/'>Here</a> you can find a list of IAPS National Committees."
+        - text: "<b>Note</b>: if you are not Italian and you are not an IAPS member, please contact us (<a href='mailto:tiqit@ai-sf.it'>tiqit@ai-sf.it</a>) or your Territorial Committee for your IAPS registration. <a href='https://iaps.info/members/'>Here</a> you can find a list of IAPS Territorial Committees."
         - text: "<b>Note</b>: if you are an Innsbruck University student, you automatically became an IAPS member."
         - text: "40 places are available in total. 8 places are reserved for Innsbruck University students. 7 places are reserved for Trento University students."
         - text: "<b>Note</b>: Participation fee is subject to change and will be updated as soon as possible."
           subpoints:
-                 - text: "The selected candidates will have to cover a participation fee of around 100€."
-                 - text: "Some spots will be assigned to participants who do not need accommodation in Trento or Innsbruck, who will have to cover a participation fee of around 40€."
+                 - text: "The selected candidates will have to cover a participation fee of 100€."
+                 - text: "Some spots will be assigned to participants who do not need accommodation in Trento or Innsbruck, who will have to cover a participation fee of 40€."
                 #  - text: "The final fee might be reduced thanks to some sponsor, but can't be raised. We'll let you know the final price before the event starts."        
         - text: "Due to the level of the program, priority will be given to students who have been attending at least the third year of bachelor and who possess a basic knowledge of Quantum Physics."
         - text: "The main criteria of selection will be the motivation letter and the basic knowledge of Quantum Physics"
