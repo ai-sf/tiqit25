@@ -12,11 +12,11 @@ script: home.js
     <div id="gradient-nav"></div>
     <div id="chevron-banner"><i class="material-icons">keyboard_arrow_down</i></div>
     <ul class="slides">
-     {% for img in site.data.home.slideshow %}
+     {% for img in site.data.home.slideshow1 %}
       <li>
         <img src="{{site.url}}/{{img.img}}" alt="{{img.alt}}">
       </li>
-       {% endfor%}
+      {% endfor%}
     </ul>
   </div>
 
@@ -78,10 +78,10 @@ script: home.js
         <div class="col s8 offset-s2">
           <div class="icon-block">
             <div class="center">
-              <a class="chip custom1 white-text" href="{{site.url}}/registration"
-                style="font-size: 20px; display: inline-flex; align-items: center; margin:5px 0px;">
+                <a class="chip custom1 white-text" href="{{site.url}}/registration"
+                style="font-size: 24px; display: inline-flex; align-items: center; margin:5px 0px; padding: 40px 30px;">
                 {{ site.data.home.button }}
-              </a>
+                </a>
             </div>
           </div>
         </div>
@@ -93,9 +93,27 @@ script: home.js
 
 <div class="container">
   <div class="row" style="text-align:center; align-items: center;">
+    <div class="slider" id="foto-eventi">
+      <ul class="slides">
+        {% for slide in site.data.home.slideshow2 %}
+          <li>
+            <img src="{{ site.url }}/{{ slide.img }}" alt="{{ slide.alt }}">
+            <div class="caption left-align">
+              <h4>{{ slide.title }}</h4>
+              <p class="light grey-text text-lighten-3">{{ slide.text }}</p>
+            </div>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row" style="text-align:center; align-items: center;">
     
       {% for image in site.data.footer.images %}
-        <img class="{{image.shape}}" src="{{image.link}}" style="width:25%; display:inline-block; margin-right:10px"><img>
+        <img class="{{image.shape}}" src="{{image.link}}" style="width:25%; display:inline-block; margin-right:40px; margin-left:40px; vertical-align: middle;">
       {% endfor %}
     
   </div>

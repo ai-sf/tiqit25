@@ -3,12 +3,6 @@ text: Partners
 img: img/partner4.png
 mail:  trento@ai-sf.it
 
-slideshow:
-  - img: img/slide/lampo.jpg
-  - img: img/slide/tipo.jpg
-  - img: img/slide/cibo.jpg
-
-
 cards:
     - size: "small"
       items:
@@ -18,9 +12,9 @@ cards:
         - title: "Physics Department of Trento"
           site: "http://www.physics.unitn.it/en"
           img: "img/partners/logodipfisica.jpg"
-        # - title: "TIFPA - INFN"
-        #   site: "https://www.tifpa.infn.it/"
-        #   img: "img/partners/nuovo-logo-TIFPA.png"
+        - title: "TIFPA - INFN"
+          site: "https://www.tifpa.infn.it/"
+          img: "img/partners/nuovo-logo-TIFPA.png"
         # - title: "Q@TN"
         #   site: "https://www.quantumtrento.eu/"
         #   img: "img/partners/Qattn.jpg"
