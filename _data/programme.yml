@@ -18,6 +18,13 @@ description:
 last_update: 24/10/2025
 
 schedule:
+  - day: "Sunday"
+    date: "16/02/2025"
+    location: "Innsbruck"
+    activity:
+      - hour: "Evening"
+        name: "Welcome Event"
+      
   - day: "Monday"
     date: "17/02/2025"
     location: "Innsbruck"
@@ -229,18 +236,18 @@ sections:
     - text: "<b>Note</b>: Participation fee is subject to change and will be updated as soon as possible."
     - text: "Participation fee is different whether you need the accommodation:"
       subpoints:
-        - text: "Fee is of 40€ without accommodation in Trento or Innsbruck"
-        - text: "Fee is of 100€ with included accommodation in Innsbruck for the nights of Monday and Tuesday and in Trento for the nights of Wednesday, Thursday and Friday."
+        - text: "The fee is of 40€ without accommodation in Trento or Innsbruck"
+        - text: "The fee is of 100€ with included accommodation in Innsbruck for the nights of Sunday, Monday and Tuesday and in Trento for the nights of Wednesday, Thursday and Friday."
         #- text: "The final fee might be reduced thanks to some sponsors, but can't be raised. We'll let you know the final price before the event starts."
     - text: "Such fee will cover:" 
       subpoints:
-        - text: "accommodation in Innsbruck and Trento"
+        - text: "Accommodation in Innsbruck and Trento"
         - text: "Lunches and dinners included in the programme above. Thanks to some sponsors we might add other meals to the programme."
         #- text: "All breakfasts"
         - text: "Local transportation in Trento and Innsbruck"
         - text: "Train transportation from Innsbruck to Trento"
         - text: "Welcome bag"
-    - text: "Participants who need to arrive and sleep in Innsbruck before Monday 17th, and/or to leave from Trento after Saturday 22nd, can contact the Organising Committee, who will help find a suitable accommodation for the extra night(s)."
+    - text: "Participants who need to arrive and sleep in Innsbruck before Sunday 16th, and/or to leave from Trento after Saturday 22nd, can contact the Organising Committee, who will help find a suitable accommodation for the extra night(s)."
     - text: "Please notice that participation fees <b>does not cover</b> the following:"
       subpoints:
         - text: "Journeys to Innsbruck and from Trento to arrive at the event and leave once it is concluded"
