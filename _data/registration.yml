@@ -2,7 +2,7 @@ description:
     title: "General information"
     paragraphs:
         - paragraph:
-            - line: "Registrations will be open from December 2<sup>nd</sup> at 21:00, GTM+1."
+            - line: "Registrations will be open from December 3<sup>rd</sup> at 15:00, GTM+1."
             # - line: "Registrations are closed."
             # - line: "Registrations are yet to open. Stay tuned for updates!"
         - paragraph:
@@ -21,23 +21,23 @@ sections:
         - text: "<b>Note</b>: Participation fee is subject to change and will be updated as soon as possible."
           subpoints:
             - text: "The selected candidates will have to cover a participation fee of 100€."
-            - text: "Some spots will be assigned to participants who do not need accommodation in Trento or Innsbruck, who will have to cover a participation fee of 40€."
+            - text: "Some spots will be assigned to participants who do not need accommodation in Trento or Innsbruck, who will have to cover a participation fee of 50€."
           #  - text: "The final fee might be reduced thanks to some sponsor, but can't be raised. We'll let you know the final price before the event starts." 
         - text: "Such fee will cover:" 
           subpoints:
-            - text: "Accommodation in Innsbruck and Trento"
-            - text: "Lunches and dinners included in the programme above. Thanks to some sponsors we might add other meals to the programme."
-            #- text: "All breakfasts"
-            - text: "Local transportation in Trento and Innsbruck"
-            - text: "Train transportation from Innsbruck to Trento"
-            - text: "Welcome bag"
+            - text: "accommodation in Innsbruck and Trento;"
+            - text: lunches and dinners included in the programme above. Thanks to some sponsors we might add other meals to the programme;"
+            - text: "all breakfasts;"
+            - text: "local transportation in Trento and Innsbruck;"
+            - text: "train transportation from Innsbruck to Trento;"
+            - text: "welcome bag with themed gadgets."
         - text: "Participants who need to arrive and sleep in Innsbruck before Sunday 16<sup>th</sup>, and/or to leave from Trento after Saturday 22<sup>nd</sup>, can contact the Organizing Committee, who will help find a suitable accommodation for the extra night(s)."
         - text: "Please notice that participation fees <b>does not cover</b> the following:"
           subpoints:
-            - text: "Journeys to Innsbruck and from Trento to arrive at the event and leave once it is concluded"
-            - text: "Lunches and dinners not included in the programme."
-            - text: "Insurance"
-            - text: "Everything else not included in: 'such fee will cover'"       
+            - text: "journeys to Innsbruck and from Trento to arrive at the event and leave once it is concluded;"
+            - text: "lunches and dinners not included in the programm;"
+            - text: "insurance;"
+            - text: "everything else not included in: 'such fee will cover'."       
         - text: "Due to the level of the program, priority will be given to students who have been attending at least the third year of bachelor and who possess a basic knowledge of Quantum Mechanics."
         - text: "The selection criteria are presented here.<br> <a class='chip custom1 white-text' href='../files/selection_criteria.pdf' style='font-size: 14px; float: right;'> Selection Criteria </a>"
         - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time."
@@ -46,7 +46,7 @@ sections:
       info: "Please read carefully and take note of the following:"
       points:
         - text: "All personal data will be handled confidentially and in compliance with the European (GDPR EU 2016/679) and Italian (Art. 13 D. Lgs. 196/2003) data and privacy protection laws."
-        - text: "Only students enrolled in a university or similar institution on a physics or physics-related course, as well as up to twelve months after receiving a degree from a university are able to participate in this event. You confirm that you will be at least 18 years of age by December 2<sup>nd</sup>, 2024."
+        - text: "Only students enrolled in a university or similar institution on a physics or physics-related course, as well as up to twelve months after receiving a degree from a university are able to participate in this event. You confirm that you will be at least 18 years of age by December 3<sup>rd</sup>, 2024."
         - text: "You acknowledge and agree that the Organizing Committee, the Italian Association of Physics Students (AISF), the International Association of Physics Students (IAPS), and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation at the Trento Innsbruck Quantum Information Tour 2025."
         - text: "You accept the IAPS Code of Conduct.<br> <a class='chip custom1 white-text' href='../files/IAPS_Code_of_Conduct.pdf' style='font-size: 14px; float: right;'> IAPS Code of Conduct </a>"
         - text: "By participating in the event you agree to be filmed, photographed, and otherwise recorded during the conference and hereby expressly grant the organizing committee, AISF and IAPS the right to use your picture, movie, or any other form of media publication in contexts such as the internet, social media, brochures, posters, informative and advertising materials. You also confirm that the information contained in this application is true and correct."
@@ -58,7 +58,7 @@ sections:
     - name: "Deadlines"
       info: ""
       points:
-        - text: "The round of registration opens on December 2<sup>nd</sup> at 21:00, GTM+1 and closes on December 22<sup>nd</sup> at 23:59, GTM+1."
+        - text: "The round of registration opens on December 3<sup>rd</sup> at 15:00, GTM+1 and closes on December 22<sup>nd</sup> at 23:59, GTM+1."
         - text: "Once the registration is closed, the organizing committee will select the participants follpwing the selection criteria presented above."
         - text: "Selected participants will be notified within a few days from the registration closing, then the event fee will have to be paid within 7 days to confirm the participation."
         - text: "Students non-accepted will be notified as well, and they will have the possibility to participate in case spots are still free after the first payment period."
@@ -72,4 +72,4 @@ sections:
     #     # - text: "The registration form will be available on December 2<sup>nd</sup> at 21:00, GTM+1."
     #     # - text: "Apply <a href='https://forms.gle/kb5f6G7NeM3g6hUd9'>here</a>"
     
-button: "Registration Form available at 21:00, GTM+1"
+button: "Registration Form available today at 15:00, GMT+1"
