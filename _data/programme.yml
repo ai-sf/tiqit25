@@ -226,4 +226,6 @@ schedule:
       - hour: "15:00"
         name: "Tour of the Museum of Science"
         subactivities:
-            - title: "1 visit and 1 lecture"    
+            - title: "1 visit and 1 lecture"   
+
+button: "Schedule PDF available soon" 

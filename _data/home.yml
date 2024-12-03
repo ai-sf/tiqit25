@@ -2,11 +2,15 @@ logo: "img/logo-white.png"
 longname: "Trento Innsbruck Quantum Information Tour"
 
 who:
-    text: "40 Physics students members of AISF (Associazione Italiana Studenti di Fisica) or IAPS (International Association of Physics Students)"
+  text: "40 Physics students members of AISF (Associazione Italiana Studenti di Fisica) or IAPS (International Association of Physics Students), among whom:"
+  subpoints:
+    - text: "8 students from the Innsbruck University"
+    - text: "7 students from the University of Trento"
+    - text: "25 students from other universities"
 
 when: "From Sunday, February 16th to Saturday, February 22nd 2025"
 
-where: "The first three days will be spent in Innsbruck at the IQOQI research center and the University, the last three in Trento visiting the University and FBK labs"
+where: "The first three days will be spent in Innsbruck at the IQOQI research center and at the Innsbruck University, the last three in Trento visiting the University of Trento and the FBK labs"
 
 slideshow1:
   - img: img/trento.jpg
