@@ -18,10 +18,10 @@ sections:
         - text: "<b>Note</b>: if you are not Italian and you are not an IAPS member, please contact us (<a href='mailto:tiqit@ai-sf.it'>tiqit@ai-sf.it</a>) or your Territorial Committee for your IAPS registration. <a href='https://iaps.info/members/'>Here</a> you can find a list of IAPS Territorial Committees."
         - text: "<b>Note</b>: if you are an Innsbruck University student, you automatically became an IAPS member."
         - text: "40 places are available in total. 8 places are reserved for Innsbruck University students. 7 places are reserved for Trento University students."
-        - text: "<b>Note</b>: Participation fee is subject to change and will be updated as soon as possible."
+        #- text: "<b>Note</b>: Participation fee is subject to change and will be updated as soon as possible."
           subpoints:
             - text: "The selected candidates will have to cover a participation fee of 100€."
-            - text: "Some spots will be assigned to participants who do not need accommodation in Trento or Innsbruck, who will have to cover a participation fee of 50€."
+            - text: "15 spots will be assigned to participants who come from the Innsbruck University or the University of Trento, who are exempted from paying a fee (the fee of 70€ is completely covered by the Euregio Mobility Fund)."
           #  - text: "The final fee might be reduced thanks to some sponsor, but can't be raised. We'll let you know the final price before the event starts." 
         - text: "Such fee will cover:" 
           subpoints:
@@ -72,4 +72,4 @@ sections:
     #     # - text: "The registration form will be available on December 2<sup>nd</sup> at 21:00, GTM+1."
     #     # - text: "Apply <a href='https://forms.gle/kb5f6G7NeM3g6hUd9'>here</a>"
     
-button: "Registration Form available today at 15:00, GMT+1"
+button: "Registration Form"
