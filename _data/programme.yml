@@ -228,4 +228,6 @@ schedule:
         subactivities:
             - title: "1 visit and 1 lecture"   
 
-button: "Schedule PDF available soon" 
+button1: "Download PDF (available soon)" 
+
+button2: "Add to Google Calendar"
