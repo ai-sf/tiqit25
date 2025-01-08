@@ -36,6 +36,9 @@ cards:
         - title: "Euregio"
           site: "https://www.europaregion.info/en/"
           img: "img/partners/euregio_logo.svg"
+        - title: "Muse"
+          site: "https://www.muse.it/en/"
+          img: "img/partners/muse.png"
           
 
           
