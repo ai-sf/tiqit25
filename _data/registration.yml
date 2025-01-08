@@ -2,8 +2,8 @@ description:
     title: "General information"
     paragraphs:
         - paragraph:
-            - line: "Registrations will be open from December 3<sup>rd</sup> at 15:00, GTM+1."
-            # - line: "Registrations are closed."
+            # - line: "Registrations will be open from December 3<sup>rd</sup> at 15:00, GTM+1."
+            - line: "Registrations are closed."
             # - line: "Registrations are yet to open. Stay tuned for updates!"
         - paragraph:
             - line: "You can find the registration form at the bottom of this page."
@@ -72,4 +72,4 @@ sections:
     #     # - text: "The registration form will be available on December 2<sup>nd</sup> at 21:00, GTM+1."
     #     # - text: "Apply <a href='https://forms.gle/kb5f6G7NeM3g6hUd9'>here</a>"
     
-button: "Registration Form"
+# button: "Registration Form"
