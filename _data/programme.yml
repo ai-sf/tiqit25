@@ -19,6 +19,7 @@ schedule:
         location:
           name: TBD
           room: Room TBD
+          tag: ''
   - day: Monday
     date: 17/02/2025
     activity:
@@ -27,41 +28,49 @@ schedule:
         location:
           name: IQOQI
           room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+          tag: iqoqi
       - hour: '09:30'
-        name: Coffee brak
+        name: Coffee break
         location:
           name: TBD
           room: Room TBD
+          tag: ''
       - hour: '10:00'
         name: Plenary lecture
         location:
           name: IQOQI
           room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+          tag: iqoqi
       - hour: '11:00'
         name: Lunch
         location:
           name: Techcafe, CT TE021a ICT Gebaude, Technikerstraße 21a, 6020 Innsbruck, Austria
           room: Room TBD
+          tag: ''
       - hour: '12:30'
         name: Lab Tour
         location:
           name: IQOQI
           room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+          tag: iqoqi
       - hour: '14:00'
         name: Coffee break
         location:
           name: TBD
           room: Room TBD
+          tag: ''
       - hour: '14:30'
         name: Lab Tour
         location:
           name: IQOQI
           room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+          tag: iqoqi
       - hour: '15:30'
         name: Free time, Challenge in Innsbruck
         location:
           name: TBD
           room: Room TBD
+          tag: ''
   - day: Tuesday
     date: 18/02/2025
     activity:
@@ -70,41 +79,49 @@ schedule:
         location:
           name: IQOQI
           room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+          tag: iqoqi
       - hour: '09:30'
         name: Coffee break
         location:
           name: TBD
           room: Room TBD
+          tag: ''
       - hour: '10:00'
         name: Plenary lecture
         location:
           name: IQOQI
           room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+          tag: iqoqi
       - hour: '11:00'
         name: Lunch
         location:
           name: Techcafe, CT TE021a ICT Gebaude, Technikerstraße 21a, 6020 Innsbruck, Austria
           room: Room TBD
+          tag: ''
       - hour: '12:30'
         name: Lab Tour
         location:
           name: IQOQI
           room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+          tag: iqoqi
       - hour: '14:00'
         name: Coffee break
         location:
           name: TBD
           room: Room TBD
+          tag: ''
       - hour: '14:30'
         name: Lab Tour
         location:
           name: IQOQI
           room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+          tag: iqoqi
       - hour: '15:30'
         name: Free time, Social Dinner and Networking
         location:
           name: TBD
           room: Room TBD
+          tag: ''
   - day: Wednesday
     date: 19/02/2025
     activity:
@@ -113,49 +130,58 @@ schedule:
         location:
           name: IQOQI
           room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+          tag: iqoqi
       - hour: '09:30'
         name: Coffee break
         location:
           name: TBD
           room: Room TBD
+          tag: ''
       - hour: '10:00'
         name: Closing Ceremony
         location:
           name: IQOQI
           room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+          tag: iqoqi
       - hour: '11:00'
         name: Lunch
         location:
           name: Techcafe, CT TE021a ICT Gebaude, Technikerstraße 21a, 6020 Innsbruck, Austria
           room: Room TBD
+          tag: ''
       - hour: '12:30'
         name: Tour of Innsbruck
         location:
           name: Innsbruck, city center
           room: Room TBD
+          tag: ''
       - hour: '14:00'
         name: Travel to Trento
         location:
           name: TBD
           room: Room TBD
+          tag: ''
       - hour: '18:30'
         name: Dinner
         location:
           name: TBD
           room: Room TBD
+          tag: ''
       - hour: '20:00'
         name: City tour
         location:
           name: Trento, city center
           room: Room TBD
+          tag: ''
   - day: Thursday
     date: 20/02/2025
     activity:
       - hour: '08:00'
         name: Plenary lecture - [BEC]
         location:
-          name: TBD
-          room: Room TBD
+          name: Povo 2
+          room: B109
+          tag: physunitn
         subactivities:
           - title: '<b>Chiara Menotti</b><br><br>Topic: TBD'
       - hour: '08:20'
@@ -163,11 +189,13 @@ schedule:
         location:
           name: TBD
           room: Room TBD
+          tag: ''
       - hour: '08:30'
         name: Plenary lecture - [BEC]
         location:
-          name: TBD
-          room: Room TBD
+          name: Povo 2
+          room: B109
+          tag: physunitn
         subactivities:
           - title: '<b>Giacomo Lamporesi</b><br><br>Topic: TBD'
       - hour: '08:50'
@@ -175,11 +203,13 @@ schedule:
         location:
           name: TBD
           room: Room TBD
+          tag: ''
       - hour: '09:00'
         name: Plenary lecture - [BEC]
         location:
-          name: TBD
-          room: Room TBD
+          name: Povo 2
+          room: B109
+          tag: physunitn
         subactivities:
           - title: '<b>Iacopo Carusotto</b><br><br>Topic: TBD<b></b>'
       - hour: '09:20'
@@ -187,16 +217,19 @@ schedule:
         location:
           name: TBD
           room: Room TBD
+          tag: ''
       - hour: '09:30'
         name: Coffee break
         location:
-          name: TBD
-          room: Room TBD
+          name: Povo 2
+          room: lobby
+          tag: physunitn
       - hour: '10:00'
         name: Plenary lecture - [Q. OPTICS & PHOTONICS]
         location:
-          name: TBD
-          room: Room TBD
+          name: Povo 2
+          room: B109
+          tag: physunitn
         subactivities:
           - title: '<b>Stefano Azzini</b><b><br></b><br>Topic: TBD'
       - hour: '10:20'
@@ -204,11 +237,13 @@ schedule:
         location:
           name: TBD
           room: Room TBD
+          tag: ''
       - hour: '10:30'
         name: Plenary lecture - [Q. OPTICS & PHOTONICS]
         location:
-          name: TBD
-          room: Room TBD
+          name: Povo 2
+          room: B109
+          tag: physunitn
         subactivities:
           - title: '<b>Alessio Baldazzi</b><br><br>Topic: TBD'
       - hour: '10:50'
@@ -216,26 +251,31 @@ schedule:
         location:
           name: TBD
           room: Room TBD
+          tag: ''
       - hour: '11:00'
         name: Lunch
         location:
           name: TBD
           room: Room TBD
+          tag: ''
       - hour: '13:00'
         name: Lab tour
         location:
           name: Povo 0
           room: Room TBD
+          tag: ''
       - hour: '16:00'
         name: Free time
         location:
           name: Trento, city center
           room: Room TBD
+          tag: ''
       - hour: '19:00'
         name: Treasure Hunt / Game night (if it rains)
         location:
           name: Trento, city center
           room: Room TBD
+          tag: ''
   - day: Friday
     date: 21/02/2025
     activity:
@@ -244,6 +284,7 @@ schedule:
         location:
           name: Povo 2
           room: B109
+          tag: physunitn
         subactivities:
           - title: "<b>Alberto Bottarelli</b><br><br>Topic:\_<span>Quantum Algorithms for Optimization Problems</span>"
       - hour: '08:20'
@@ -251,11 +292,13 @@ schedule:
         location:
           name: TBD
           room: Room TBD
+          tag: ''
       - hour: '08:30'
         name: Plenary lecture - [Q. COMPUTING / Q. INFORMATION]
         location:
-          name: TBD
-          room: Room TBD
+          name: Povo 2
+          room: B109
+          tag: physunitn
         subactivities:
           - title: '<b>Luca Spagnoli</b><br><br>Topic: Quantum Simulations'
       - hour: '08:50'
@@ -263,16 +306,19 @@ schedule:
         location:
           name: TBD
           room: Room TBD
+          tag: ''
       - hour: '09:00'
         name: Coffee break
         location:
-          name: TBD
-          room: Room TBD
+          name: Povo 2
+          room: lobby
+          tag: physunitn
       - hour: '09:30'
         name: Workshop Q. Computing
         location:
-          name: TBD
-          room: Room TBD
+          name: Povo 2
+          room: B109
+          tag: physunitn
         subactivities:
           - title: <b>Matteo Wauters</b>
       - hour: '11:00'
@@ -280,11 +326,13 @@ schedule:
         location:
           name: TBD
           room: Room TBD
+          tag: ''
       - hour: '13:00'
         name: Master presentation
         location:
           name: TBD
           room: Room TBD
+          tag: ''
         subactivities:
           - title: <b>Albino Perego</b>
       - hour: '13:00'
@@ -292,11 +340,13 @@ schedule:
         location:
           name: TBD
           room: Room TBD
+          tag: ''
       - hour: '14:00'
         name: Poster session
         location:
           name: Povo 2
           room: lobby
+          tag: physunitn
         subactivities:
           - title: "<i>[More to be announced]</i><ul><li><b>Luca Spagnoli</b>: Quantum Error Correction and Lattice Gauge Theories</li><li><b>Luca Vespucci</b>:\_Quantum Simulation of interacting neutrinos</li><li><b>Alberto Bottarelli &amp; Gopal Chandrasantra</b>:\_Quantum optimization for industrial applications</li><li><b>Alex Windey &amp; David Pasqual Solis</b>: Quantum Simulation of the SYK model: from quantum chaos to cosmology</li></ul>"
       - hour: '16:00'
@@ -304,6 +354,7 @@ schedule:
         location:
           name: Museo Castello del Buonconsiglio, Via Bernardo Clesio, 5, 38122 Trento TN, Italia
           room: Room TBD
+          tag: ''
         subactivities:
           - title: <b><a href="https://sd.fbk.eu/en/contacts/">Richard Wilton</a></b>
       - hour: '20:00'
@@ -311,6 +362,7 @@ schedule:
         location:
           name: TBD
           room: Room TBD
+          tag: ''
   - day: Saturday
     date: 22/02/2025
     activity:
@@ -319,21 +371,25 @@ schedule:
         location:
           name: Fondazione Bruno Kessler, Via Sommarive, 18, 38123 Povo TN, Italia
           room: Room TBD
+          tag: ''
       - hour: '08:45'
         name: Lab tour - [FBK]
         location:
           name: Fondazione Bruno Kessler, Via Sommarive, 18, 38123 Povo TN, Italia
           room: Room TBD
+          tag: ''
       - hour: '10:00'
         name: Lunch
         location:
           name: Trento, city center
           room: Room TBD
+          tag: ''
       - hour: '13:00'
         name: Guided Tour MUSE
         location:
           name: MUSE
           room: Museo delle Scienze, Corso del Lavoro e della Scienza, 3, 38122 Trento TN, Italia
+          tag: ''
         subactivities:
           - title: '<span>Guided tours:</span><br><ul><li>Mountains: from the origins to the peak</li><li>History and evolution of life</li></ul>'
       - hour: '14:00'
@@ -341,5 +397,6 @@ schedule:
         location:
           name: MUSE
           room: Museo delle Scienze, Corso del Lavoro e della Scienza, 3, 38122 Trento TN, Italia
+          tag: ''
 button1: Download PDF (available soon)
 button2: Add to Google Calendar

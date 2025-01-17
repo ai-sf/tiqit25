@@ -39,11 +39,18 @@ async function main() {
             };
         }
 
+        // Create location name, room and tag
         let locationName = 'TBD';
         let room = 'Room TBD';
+        let tag = '';
 
         if (event.location && event.location.includes('-')) {
             [locationName, room] = event.location.split('-').map(part => part.trim());
+            if (locationName == 'Povo 0' || locationName == 'Povo 1' || locationName == 'Povo 2') {
+                tag = 'physunitn';
+            } else if (locationName == 'IQOQI') {
+                tag = 'iqoqi'
+            }
         } else if (event.location) {
             locationName = event.location;
         }
@@ -52,8 +59,9 @@ async function main() {
             hour: hour,
             name: event.summary,
             location: {
-            name: locationName,
-            room: room
+                name: locationName,
+                room: room,
+                tag: tag
             }
         };
 
