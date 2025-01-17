@@ -4,3 +4,8 @@
 # jekyll build
 _site
 .jekyll-cache
+
+# JS
+node_modules
+package.json
+package-lock.json
