@@ -1,231 +1,345 @@
 description:
-    title: "General Info"
-    paragraphs:
-        - paragraph:
-            - line: "The Trento-Innsbruck Quantum Information Tour is finally coming back with TIQIT25!"
-        - paragraph:
-            - line: "The event will have a focus on Bose-Einstein Condensation, Nanoscience, Quantum Optics and Quantum Information. The language of the talks will be English."
-            - line: "Students will be given lectures on forefront theoretical and experimental research in this fields by academics and prominent figures in Trento and Innsbruck environment."
-        - paragraph:
-            #- line: "The event will start in Innsbruck with ..."
-            # - line: "On Tuesday students will be hosted in the morning by Bruno Kessler Foundation and in the afternoon will be guided through the nanoscience labs."
-            # - line: "The following day participants will move to Innsbruck to visit the Institute for Quantum Optics and Quantum Information."
-            # - line: "The morning of the final day will be spent at the Physics Department of Innsbruck University. After lunch, a private bus will take to Trento participants who need to return there."
-        - paragraph:
-            # - line: "You can find the detailed program below, <b>which is subject to change and will be constantly updated</b>."
-            - line: "You can find an early version of the schedule below, <b>which is subject to change and will be constantly updated</b>."
-
+  title: General Info
+  paragraphs:
+    - paragraph:
+        - line: The Trento-Innsbruck Quantum Information Tour is finally coming back with TIQIT25!
+    - paragraph:
+        - line: The event will have a focus on Bose-Einstein Condensation, Nanoscience, Quantum Optics and Quantum Information. The language of the talks will be English.
+        - line: Students will be given lectures on forefront theoretical and experimental research in this fields by academics and prominent figures in Trento and Innsbruck environment.
+    - paragraph: null
+    - paragraph:
+        - line: You can find a detailed version of the schedule below, <b>which is subject to change and will be constantly updated</b>. You can also <a href='https://calendar.google.com/calendar/u/0?cid=YzJkNTJhNjhhZTY3YzgyYTAyOTlhNGE2NzhmOWZlZjgxZDM4YjIzODdkYzMzNjcxNjkzM2Y4NmIzYWZlNmI1NkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t'>add the schedule to your Google Calendar</a>.
 last_update: 24/10/2025
-
 schedule:
-  - day: "Sunday"
-    date: "16/02/2025"
-    location: "Innsbruck"
+  - day: Sunday
+    date: 16/02/2025
     activity:
-      - hour: "Evening"
-        name: "Welcome Event"
-      
-  - day: "Monday"
-    date: "17/02/2025"
-    location: "Innsbruck"
+      - hour: '17:00'
+        name: Welcome Cerimony
+        location:
+          name: TBD
+          room: Room TBD
+  - day: Monday
+    date: 17/02/2025
     activity:
-      - hour: "9:00"
-        name: "Plenary lecture"
+      - hour: '08:00'
+        name: Plenary lecture
         location:
-          name: "IQOQI"
-          tag: "iqoqi"
-          room: "TBD"
-        subactivities:
-            - title: "3 presentations, 30 minutes each (25 minutes talk + transition)"
-      - hour: "10:30"
-        name: "Coffee break"
-      - hour: "11:00"
-        name: "Plenary lecture"
+          name: IQOQI
+          room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+      - hour: '09:30'
+        name: Coffee brak
         location:
-          name: "IQOQI"
-        subactivities:
-            - title: "2 presentations, 30 minutes each (25 minutes talk + transition)"
-      - hour: "12:00"
-        name: "Tech Cafe"
-      - hour: "13:30"
-        name: "Lab Tour"
+          name: TBD
+          room: Room TBD
+      - hour: '10:00'
+        name: Plenary lecture
         location:
-          name: "IQOQI"
-        subactivities:
-            - title: "3 presentations, 30 minutes each (25 minutes talk + transition)"
-      - hour: "15:00"
-        name: "Coffee break"
-      - hour: "15:30"
-        name: "Lab Tour"
+          name: IQOQI
+          room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+      - hour: '11:00'
+        name: Lunch
         location:
-          name: "IQOQI"
-        subactivities:
-            - title: "2 presentations, 30 minutes each (25 minutes talk + transition)"
-      - hour: "16:30"
-        name: "Free time"
-      - hour: "Evening"
-        name: "Challenge in Innsbruck"
-
-  - day: "Tuesday"
-    date: "18/02/2025"
-    location: "Innsbruck"
+          name: Techcafe, CT TE021a ICT Gebaude, Technikerstraße 21a, 6020 Innsbruck, Austria
+          room: Room TBD
+      - hour: '12:30'
+        name: Lab Tour
+        location:
+          name: IQOQI
+          room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+      - hour: '14:00'
+        name: Coffee break
+        location:
+          name: TBD
+          room: Room TBD
+      - hour: '14:30'
+        name: Lab Tour
+        location:
+          name: IQOQI
+          room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+      - hour: '15:30'
+        name: Free time, Challenge in Innsbruck
+        location:
+          name: TBD
+          room: Room TBD
+  - day: Tuesday
+    date: 18/02/2025
     activity:
-      - hour: "9:00"
-        name: "Plenary lecture"
+      - hour: '08:00'
+        name: Plenary lecture
         location:
-          name: "IQOQI"
-        subactivities:
-            - title: "3 presentations, 30 minutes each (25 minutes talk + transition)"
-      - hour: "10:30"
-        name: "Coffee break"
-      - hour: "11:00"
-        name: "Plenary lecture"
+          name: IQOQI
+          room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+      - hour: '09:30'
+        name: Coffee break
         location:
-          name: "IQOQI"
-        subactivities:
-            - title: "2 presentations, 30 minutes each (25 minutes talk + transition)"
-      - hour: "12:00"
-        name: "Tech Cafe"
-      - hour: "13:30"
-        name: "Lab Tour"
+          name: TBD
+          room: Room TBD
+      - hour: '10:00'
+        name: Plenary lecture
         location:
-          name: "IQOQI"
-        subactivities:
-            - title: "3 presentations, 30 minutes each (25 minutes talk + transition)"
-      - hour: "15:00"
-        name: "Coffee break"
-      - hour: "15:30"
-        name: "Lab Tour"
+          name: IQOQI
+          room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+      - hour: '11:00'
+        name: Lunch
         location:
-          name: "IQOQI"
-        subactivities:
-            - title: "2 presentations, 30 minutes each (25 minutes talk + transition)"
-      - hour: "16:30"
-        name: "Free time"
-      - hour: "Evening"
-        name: "Social Dinner and Networking"
-
-  - day: "Wednesday"
-    date: "19/02/2025"
-    location: "Innsbruck/Trento"
+          name: Techcafe, CT TE021a ICT Gebaude, Technikerstraße 21a, 6020 Innsbruck, Austria
+          room: Room TBD
+      - hour: '12:30'
+        name: Lab Tour
+        location:
+          name: IQOQI
+          room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+      - hour: '14:00'
+        name: Coffee break
+        location:
+          name: TBD
+          room: Room TBD
+      - hour: '14:30'
+        name: Lab Tour
+        location:
+          name: IQOQI
+          room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+      - hour: '15:30'
+        name: Free time, Social Dinner and Networking
+        location:
+          name: TBD
+          room: Room TBD
+  - day: Wednesday
+    date: 19/02/2025
     activity:
-      - hour: "9:00"
-        name: "Plenary lecture"
+      - hour: '08:00'
+        name: Plenary lecture
         location:
-          name: "IQOQI"
-        subactivities:
-            - title: "3 presentations, 30 minutes each (25 minutes talk + transition)"
-      - hour: "10:30"
-        name: "Coffee break"
-      - hour: "11:00"
-        name: "Conclusion Ceremony"
+          name: IQOQI
+          room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+      - hour: '09:30'
+        name: Coffee break
         location:
-          name: "IQOQI"
-        subactivities:
-            - title: "2 presentations, 30 minutes each (25 minutes talk + transition)"
-      - hour: "12:00"
-        name: "Tech Cafe"
-      - hour: "13:30"
-        name: "Tour of Innsbruck"
-      - hour: "15:00"
-        name: "Travel to Trento"
-      - hour: "Evening"
-        name: "Social Dinner and Conference in Trento"
-
-  - day: "Thursday"
-    date: "20/02/2025"
-    location: "Trento"
+          name: TBD
+          room: Room TBD
+      - hour: '10:00'
+        name: Closing Ceremony
+        location:
+          name: IQOQI
+          room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+      - hour: '11:00'
+        name: Lunch
+        location:
+          name: Techcafe, CT TE021a ICT Gebaude, Technikerstraße 21a, 6020 Innsbruck, Austria
+          room: Room TBD
+      - hour: '12:30'
+        name: Tour of Innsbruck
+        location:
+          name: Innsbruck, city center
+          room: Room TBD
+      - hour: '14:00'
+        name: Travel to Trento
+        location:
+          name: TBD
+          room: Room TBD
+      - hour: '18:30'
+        name: Dinner
+        location:
+          name: TBD
+          room: Room TBD
+      - hour: '20:00'
+        name: City tour
+        location:
+          name: Trento, city center
+          room: Room TBD
+  - day: Thursday
+    date: 20/02/2025
     activity:
-      - hour: "9:00"
-        name: "Plenary lecture"
+      - hour: '08:00'
+        name: Plenary lecture - [BEC]
         location:
-          name: "BEC"
+          name: TBD
+          room: Room TBD
         subactivities:
-            - title: "3 presentations, 30 minutes each (25 minutes talk + transition)"
-      - hour: "10:30"
-        name: "Coffee break"
-      - hour: "11:00"
-        name: "Plenary lecture"
+          - title: '<b>Chiara Menotti</b><br><br>Topic: TBD'
+      - hour: '08:20'
+        name: Questions
         location:
-          name: "BEC"
-        subactivities:
-            - title: "2 presentations, 30 minutes each (25 minutes talk + transition)"
-      - hour: "12:00"
-        name: "Lunch"
-      - hour: "13:30"
-        name: "Plenary lecture"
+          name: TBD
+          room: Room TBD
+      - hour: '08:30'
+        name: Plenary lecture - [BEC]
         location:
-          name: "Quantum Computing / Quantum Information"
+          name: TBD
+          room: Room TBD
         subactivities:
-            - title: "3 presentations, 30 minutes each (25 minutes talk + transition)"
-      - hour: "15:00"
-        name: "Coffee break"
-      - hour: "15:30"
-        name: "Plenary lecture"
+          - title: '<b>Giacomo Lamporesi</b><br><br>Topic: TBD'
+      - hour: '08:50'
+        name: Questions
         location:
-          name: "Quantum Computing / Quantum Information"
+          name: TBD
+          room: Room TBD
+      - hour: '09:00'
+        name: Plenary lecture - [BEC]
+        location:
+          name: TBD
+          room: Room TBD
         subactivities:
-            - title: "2 presentations, 30 minutes each (25 minutes talk + transition)"
-      - hour: "16:30"
-        name: "Orientation for Masters and PhD programs"
-      - hour: "Evening"
-        name: "Free time with a Science Treasure Hunt"
-
-  - day: "Friday"
-    date: "21/02/2025"
-    location: "Trento"
+          - title: '<b>Iacopo Carusotto</b><br><br>Topic: TBD<b></b>'
+      - hour: '09:20'
+        name: Questions
+        location:
+          name: TBD
+          room: Room TBD
+      - hour: '09:30'
+        name: Coffee break
+        location:
+          name: TBD
+          room: Room TBD
+      - hour: '10:00'
+        name: Plenary lecture - [Q. OPTICS & PHOTONICS]
+        location:
+          name: TBD
+          room: Room TBD
+        subactivities:
+          - title: '<b>Stefano Azzini</b><b><br></b><br>Topic: TBD'
+      - hour: '10:20'
+        name: Questions
+        location:
+          name: TBD
+          room: Room TBD
+      - hour: '10:30'
+        name: Plenary lecture - [Q. OPTICS & PHOTONICS]
+        location:
+          name: TBD
+          room: Room TBD
+        subactivities:
+          - title: '<b>Alessio Baldazzi</b><br><br>Topic: TBD'
+      - hour: '10:50'
+        name: Questions
+        location:
+          name: TBD
+          room: Room TBD
+      - hour: '11:00'
+        name: Lunch
+        location:
+          name: TBD
+          room: Room TBD
+      - hour: '13:00'
+        name: Lab tour
+        location:
+          name: Povo 0
+          room: Room TBD
+      - hour: '16:00'
+        name: Free time
+        location:
+          name: Trento, city center
+          room: Room TBD
+      - hour: '19:00'
+        name: Treasure Hunt / Game night (if it rains)
+        location:
+          name: Trento, city center
+          room: Room TBD
+  - day: Friday
+    date: 21/02/2025
     activity:
-      - hour: "9:00"
-        name: "Plenary lecture"
+      - hour: '08:00'
+        name: Plenary lecture - [Q. COMPUTING / Q. INFORMATION]
         location:
-          name: "Quantum Optics & Photonics"
+          name: Povo 2
+          room: B109
         subactivities:
-            - title: "3 presentations, 30 minutes each (25 minutes talk + transition)"
-      - hour: "10:30"
-        name: "Coffee break"
-      - hour: "11:00"
-        name: "Plenary lecture"
+          - title: "<b>Alberto Bottarelli</b><br><br>Topic:\_<span>Quantum Algorithms for Optimization Problems</span>"
+      - hour: '08:20'
+        name: Questions
         location:
-          name: "Quantum Optics & Photonics"
-        subactivities:
-            - title: "2 presentations, 30 minutes each (25 minutes talk + transition)"
-      - hour: "12:00"
-        name: "Lunch"
-      - hour: "13:30"
-        name: "Plenary lecture"
+          name: TBD
+          room: Room TBD
+      - hour: '08:30'
+        name: Plenary lecture - [Q. COMPUTING / Q. INFORMATION]
         location:
-          name: "Lab Tour"
+          name: TBD
+          room: Room TBD
         subactivities:
-            - title: "3 presentations, 30 minutes each (25 minutes talk + transition)"
-      - hour: "15:00"
-        name: "Coffee break"
-      - hour: "15:30"
-        name: "Plenary lecture"
+          - title: '<b>Luca Spagnoli</b><br><br>Topic: Quantum Simulations'
+      - hour: '08:50'
+        name: Questions
         location:
-          name: "Lab Tour"
+          name: TBD
+          room: Room TBD
+      - hour: '09:00'
+        name: Coffee break
+        location:
+          name: TBD
+          room: Room TBD
+      - hour: '09:30'
+        name: Workshop Q. Computing
+        location:
+          name: TBD
+          room: Room TBD
         subactivities:
-            - title: "2 presentations, 30 minutes each (25 minutes talk + transition)"
-      - hour: "16:30"
-        name: "Orientation for Masters and PhD programs"
-      - hour: "Evening"
-        name: "Final dinner at Buonconsiglio Castle with Richard Wilton"
-
-  - day: "Saturday"
-    date: "22/02/2025"
-    location: "Trento"
+          - title: <b>Matteo Wauters</b>
+      - hour: '11:00'
+        name: Lunch
+        location:
+          name: TBD
+          room: Room TBD
+      - hour: '13:00'
+        name: Master presentation
+        location:
+          name: TBD
+          room: Room TBD
+        subactivities:
+          - title: <b>Albino Perego</b>
+      - hour: '13:00'
+        name: PhD presentation
+        location:
+          name: TBD
+          room: Room TBD
+      - hour: '14:00'
+        name: Poster session
+        location:
+          name: Povo 2
+          room: lobby
+        subactivities:
+          - title: "<i>[More to be announced]</i><ul><li><b>Luca Spagnoli</b>: Quantum Error Correction and Lattice Gauge Theories</li><li><b>Luca Vespucci</b>:\_Quantum Simulation of interacting neutrinos</li><li><b>Alberto Bottarelli &amp; Gopal Chandrasantra</b>:\_Quantum optimization for industrial applications</li><li><b>Alex Windey &amp; David Pasqual Solis</b>: Quantum Simulation of the SYK model: from quantum chaos to cosmology</li></ul>"
+      - hour: '16:00'
+        name: Dinner and Closing Cerimony
+        location:
+          name: Museo Castello del Buonconsiglio, Via Bernardo Clesio, 5, 38122 Trento TN, Italia
+          room: Room TBD
+        subactivities:
+          - title: <b><a href="https://sd.fbk.eu/en/contacts/">Richard Wilton</a></b>
+      - hour: '20:00'
+        name: Quiz night
+        location:
+          name: TBD
+          room: Room TBD
+  - day: Saturday
+    date: 22/02/2025
     activity:
-      - hour: "9:00"
-        name: "Plenary lecture / Lab Tour"
+      - hour: '08:00'
+        name: Presentation - [FBK]
         location:
-          name: "FBK"
-      - hour: "11:30"
-        name: "Speech to New Researchers"
+          name: Fondazione Bruno Kessler, Via Sommarive, 18, 38123 Povo TN, Italia
+          room: Room TBD
+      - hour: '08:45'
+        name: Lab tour - [FBK]
+        location:
+          name: Fondazione Bruno Kessler, Via Sommarive, 18, 38123 Povo TN, Italia
+          room: Room TBD
+      - hour: '10:00'
+        name: Lunch
+        location:
+          name: Trento, city center
+          room: Room TBD
+      - hour: '13:00'
+        name: Guided Tour MUSE
+        location:
+          name: MUSE
+          room: Museo delle Scienze, Corso del Lavoro e della Scienza, 3, 38122 Trento TN, Italia
         subactivities:
-            - title: "How to Build Innovation"
-            - speaker: "Richard Hall Wilton"
-      - hour: "15:00"
-        name: "Tour of the Museum of Science"
-        subactivities:
-            - title: "1 visit and 1 lecture"   
-
-button: "Schedule PDF available soon" 
+          - title: '<span>Guided tours:</span><br><ul><li>Mountains: from the origins to the peak</li><li>History and evolution of life</li></ul>'
+      - hour: '14:00'
+        name: Free time in MUSE
+        location:
+          name: MUSE
+          room: Museo delle Scienze, Corso del Lavoro e della Scienza, 3, 38122 Trento TN, Italia
+button1: Download PDF (available soon)
+button2: Add to Google Calendar
