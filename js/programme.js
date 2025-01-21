@@ -27,10 +27,8 @@ async function main() {
 
     const scheduleMap = events.reduce((acc, event) => {
         const start = event.start.dateTime || event.start.date;
-        console.log(start);
         const date = new Date(start).toLocaleDateString('en-GB').split('/').join('/');
         const hour = new Date(start).toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit', hour12: false });
-        console.log(hour);
         const day = new Date(start).toLocaleDateString('en-US', { weekday: 'long' });
 
         if (!acc[date]) {

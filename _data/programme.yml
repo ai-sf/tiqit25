@@ -32,9 +32,9 @@ schedule:
       - hour: '10:30'
         name: Coffee break
         location:
-          name: TBD
-          room: Room TBD
-          tag: ''
+          name: IQOQI
+          room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+          tag: iqoqi
       - hour: '11:00'
         name: Plenary lecture
         location:
@@ -56,16 +56,16 @@ schedule:
       - hour: '15:00'
         name: Coffee break
         location:
-          name: TBD
-          room: Room TBD
-          tag: ''
+          name: IQOQI
+          room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+          tag: iqoqi
       - hour: '15:30'
         name: Lab Tour
         location:
           name: IQOQI
           room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
           tag: iqoqi
-      - hour: '16:30'
+      - hour: '17:30'
         name: Free time, Challenge in Innsbruck
         location:
           name: TBD
@@ -83,9 +83,9 @@ schedule:
       - hour: '10:30'
         name: Coffee break
         location:
-          name: TBD
-          room: Room TBD
-          tag: ''
+          name: IQOQI
+          room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+          tag: iqoqi
       - hour: '11:00'
         name: Plenary lecture
         location:
@@ -107,9 +107,9 @@ schedule:
       - hour: '15:00'
         name: Coffee break
         location:
-          name: TBD
-          room: Room TBD
-          tag: ''
+          name: IQOQI
+          room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+          tag: iqoqi
       - hour: '15:30'
         name: Lab Tour
         location:
@@ -117,6 +117,12 @@ schedule:
           room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
           tag: iqoqi
       - hour: '16:30'
+        name: Poster session
+        location:
+          name: IQOQI
+          room: Innsbruck, Technikerstraße 21a, 6020 Innsbruck, Austria
+          tag: iqoqi
+      - hour: '18:30'
         name: Free time, Social Dinner and Networking
         location:
           name: TBD
@@ -187,9 +193,9 @@ schedule:
       - hour: '09:20'
         name: Questions
         location:
-          name: TBD
-          room: Room TBD
-          tag: ''
+          name: Povo 2
+          room: B109
+          tag: physunitn
       - hour: '09:30'
         name: Plenary lecture - [BEC]
         location:
@@ -201,9 +207,9 @@ schedule:
       - hour: '09:50'
         name: Questions
         location:
-          name: TBD
-          room: Room TBD
-          tag: ''
+          name: Povo 2
+          room: B109
+          tag: physunitn
       - hour: '10:00'
         name: Plenary lecture - [BEC]
         location:
@@ -215,9 +221,9 @@ schedule:
       - hour: '10:20'
         name: Questions
         location:
-          name: TBD
-          room: Room TBD
-          tag: ''
+          name: Povo 2
+          room: B109
+          tag: physunitn
       - hour: '10:30'
         name: Coffee break
         location:
@@ -235,9 +241,9 @@ schedule:
       - hour: '11:20'
         name: Questions
         location:
-          name: TBD
-          room: Room TBD
-          tag: ''
+          name: Povo 2
+          room: B109
+          tag: physunitn
       - hour: '11:30'
         name: Plenary lecture - [Q. OPTICS & PHOTONICS]
         location:
@@ -249,9 +255,9 @@ schedule:
       - hour: '11:50'
         name: Questions
         location:
-          name: TBD
-          room: Room TBD
-          tag: ''
+          name: Povo 2
+          room: B109
+          tag: physunitn
       - hour: '12:00'
         name: Lunch
         location:
@@ -290,9 +296,9 @@ schedule:
       - hour: '09:20'
         name: Questions
         location:
-          name: TBD
-          room: Room TBD
-          tag: ''
+          name: Povo 2
+          room: B109
+          tag: physunitn
       - hour: '09:30'
         name: Plenary lecture - [Q. COMPUTING / Q. INFORMATION]
         location:
@@ -304,9 +310,9 @@ schedule:
       - hour: '09:50'
         name: Questions
         location:
-          name: TBD
-          room: Room TBD
-          tag: ''
+          name: Povo 2
+          room: B109
+          tag: physunitn
       - hour: '10:00'
         name: Coffee break
         location:
@@ -391,7 +397,7 @@ schedule:
           room: Museo delle Scienze, Corso del Lavoro e della Scienza, 3, 38122 Trento TN, Italia
           tag: ''
         subactivities:
-          - title: '<span>Guided tours:</span><br><ul><li>Mountains: from the origins to the peak;</li><li>History and evolution of life</li></ul>'
+          - title: '<span>Guided tours:</span><br><ul><li>Mountains: from the origins to the peak;</li><li>History and evolution of life.</li></ul>'
       - hour: '15:00'
         name: Free time in MUSE
         location:
