@@ -15,7 +15,7 @@ schedule:
     date: 16/02/2025
     activity:
       - hour: '18:00'
-        name: Welcome Cerimony
+        name: Welcome Ceremony
         location:
           name: TBD
           room: Room TBD
@@ -189,7 +189,7 @@ schedule:
           room: B109
           tag: physunitn
         subactivities:
-          - title: '<b>Chiara Menotti</b><br><br>Topic: TBD'
+          - title: '<a href="https://webapps.unitn.it/du/en/Persona/PER0000163"><b>Chiara Menotti</b></a><br><br>Topic: TBD'
       - hour: '09:20'
         name: Questions
         location:
@@ -203,7 +203,7 @@ schedule:
           room: B109
           tag: physunitn
         subactivities:
-          - title: '<b>Giacomo Lamporesi</b><br><br>Topic: TBD'
+          - title: '<a href="https://webapps.unitn.it/du/en/Persona/PER0120868/Didattica"><b>Giacomo Lamporesi</b></a><br><br>Topic: TBD'
       - hour: '09:50'
         name: Questions
         location:
@@ -217,7 +217,7 @@ schedule:
           room: B109
           tag: physunitn
         subactivities:
-          - title: '<b>Iacopo Carusotto</b><br><br>Topic: TBD<b></b>'
+          - title: '<a href="https://webapps.unitn.it/du/en/Persona/PER0000187/Didattica"><b>Iacopo Carusotto</b></a><br><br>Topic: TBD<b></b>'
       - hour: '10:20'
         name: Questions
         location:
@@ -237,7 +237,7 @@ schedule:
           room: B109
           tag: physunitn
         subactivities:
-          - title: '<b>Stefano Azzini</b><b><br></b><br>Topic: TBD'
+          - title: '<a href="https://webapps.unitn.it/du/en/Persona/PER0212584/Curriculum"><b>Stefano Azzini</b></a><br><br>Topic: TBD'
       - hour: '11:20'
         name: Questions
         location:
@@ -251,7 +251,7 @@ schedule:
           room: B109
           tag: physunitn
         subactivities:
-          - title: '<b>Alessio Baldazzi</b><br><br>Topic: TBD'
+          - title: '<a href="https://webapps.unitn.it/du/en/Persona/PER0145788/Didattica"><b>Alessio Baldazzi</b></a><br><br>Topic: TBD'
       - hour: '11:50'
         name: Questions
         location:
@@ -270,6 +270,8 @@ schedule:
           name: Povo 0
           room: Room TBD
           tag: ''
+        subactivities:
+          - title: <ul><li><a href="https://bec.science.unitn.it/BEC/0_Home.html">BEC</a>;</li><li><a href="https://nanolab.physics.unitn.it/index.php/facilities">Quantum optics &amp; photonics</a>;</li><li><a href="https://webapps.unitn.it/du/en/Persona/PER0022615/Progetti">Squeezing</a>.</li></ul>
       - hour: '17:00'
         name: Free time
         location:
@@ -292,7 +294,7 @@ schedule:
           room: B109
           tag: physunitn
         subactivities:
-          - title: "<b>Alberto Bottarelli</b><br><br>Topic:\_<span>Quantum Algorithms for Optimization Problems</span>"
+          - title: "<a href=\"https://webapps.unitn.it/du/en/Persona/PER0254993\"><b>Alberto Bottarelli</b></a><br><br>Topic:\_<span>Quantum Algorithms for Optimization Problems</span>"
       - hour: '09:20'
         name: Questions
         location:
@@ -306,7 +308,7 @@ schedule:
           room: B109
           tag: physunitn
         subactivities:
-          - title: '<b>Luca Spagnoli</b><br><br>Topic: Quantum Simulations'
+          - title: '<a href="https://webapps.unitn.it/du/en/Persona/PER0207518/Pubblicazioni"><b>Luca Spagnoli</b></a><br><br>Topic: Quantum Simulations'
       - hour: '09:50'
         name: Questions
         location:
@@ -326,7 +328,7 @@ schedule:
           room: B109
           tag: physunitn
         subactivities:
-          - title: <b>Matteo Wauters</b>
+          - title: <b><a href="https://webapps.unitn.it/du/en/Persona/PER0267083/" target="_blank">Matteo Wauters</a></b>
       - hour: '12:00'
         name: Lunch
         location:
@@ -340,7 +342,7 @@ schedule:
           room: Room TBD
           tag: ''
         subactivities:
-          - title: <b>Albino Perego</b>
+          - title: <b><a href="https://webapps.unitn.it/du/en/Persona/PER0212698/">Albino Perego</a></b>
       - hour: '14:00'
         name: PhD presentation
         location:
@@ -356,7 +358,7 @@ schedule:
         subactivities:
           - title: "<i>[More to be announced]</i><ul><li><b>Luca Spagnoli</b>: Quantum Error Correction and Lattice Gauge Theories;</li><li><b>Luca Vespucci</b>:\_Quantum Simulation of interacting neutrinos;</li><li><b>Alberto Bottarelli &amp; Gopal Chandrasantra</b>:\_Quantum optimization for industrial applications;</li><li><b>Alex Windey &amp; David Pasqual Solis</b>: Quantum Simulation of the SYK model: from quantum chaos to cosmology.</li></ul>"
       - hour: '17:00'
-        name: Dinner and Closing Cerimony
+        name: Dinner and Closing Ceremony
         location:
           name: Museo Castello del Buonconsiglio, Via Bernardo Clesio, 5, 38122 Trento TN, Italia
           room: Room TBD
