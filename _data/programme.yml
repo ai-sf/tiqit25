@@ -191,7 +191,7 @@ schedule:
           room: B109
           tag: physunitn
         subactivities:
-          - title: '<a href="https://webapps.unitn.it/du/en/Persona/PER0000163"><b>Chiara Menotti</b></a><br><br>Topic: TBD'
+          - title: '<a href="https://webapps.unitn.it/du/en/Persona/PER0000163" target="_blank"><b>Chiara Menotti</b></a><br><br>Topic: Ultracold gases in Trento'
       - hour: '09:20'
         name: Questions
         location:
@@ -205,7 +205,7 @@ schedule:
           room: B109
           tag: physunitn
         subactivities:
-          - title: '<a href="https://webapps.unitn.it/du/en/Persona/PER0120868/Didattica"><b>Giacomo Lamporesi</b></a><br><br>Topic: TBD'
+          - title: '<a href="https://webapps.unitn.it/du/en/Persona/PER0120868/Didattica" target="_blank"><b>Giacomo Lamporesi</b></a><br><br>Topic: Quantum spin mixtures'
       - hour: '09:50'
         name: Questions
         location:
@@ -219,7 +219,7 @@ schedule:
           room: B109
           tag: physunitn
         subactivities:
-          - title: '<a href="https://webapps.unitn.it/du/en/Persona/PER0000187/Didattica"><b>Iacopo Carusotto</b></a><br><br>Topic: TBD<b></b>'
+          - title: '<a href="https://webapps.unitn.it/du/en/Persona/PER0000187/Didattica" target="_blank"><b>Iacopo Carusotto</b></a><br><br>Topic: Superfluids of light<b></b>'
       - hour: '10:20'
         name: Questions
         location:
@@ -266,6 +266,8 @@ schedule:
           name: TBD
           room: Room TBD
           tag: ''
+        subactivities:
+          - title: Pizza Rio
       - hour: '14:00'
         name: Lab tour
         location:
@@ -339,20 +341,22 @@ schedule:
           name: TBD
           room: Room TBD
           tag: ''
+        subactivities:
+          - title: Sapori di Gastronomia
       - hour: '14:00'
         name: Master presentation
         location:
-          name: TBD
-          room: Room TBD
-          tag: ''
+          name: Povo 2
+          room: B112
+          tag: physunitn
         subactivities:
           - title: <b><a href="https://webapps.unitn.it/du/en/Persona/PER0212698/">Albino Perego</a></b>
       - hour: '14:00'
         name: PhD presentation
         location:
-          name: TBD
-          room: Room TBD
-          tag: ''
+          name: Povo 2
+          room: B108
+          tag: physunitn
       - hour: '15:00'
         name: Poster session
         location:
@@ -360,7 +364,7 @@ schedule:
           room: lobby
           tag: physunitn
         subactivities:
-          - title: "<i>[More to be announced]</i><ul><li><b>Luca Spagnoli</b>: Quantum Error Correction and Lattice Gauge Theories;</li><li><b>Luca Vespucci</b>:\_Quantum Simulation of interacting neutrinos;</li><li><b>Alberto Bottarelli &amp; Gopal Chandrasantra</b>:\_Quantum optimization for industrial applications;</li><li><b>Alex Windey &amp; David Pasqual Solis</b>: Quantum Simulation of the SYK model: from quantum chaos to cosmology.</li><li><b>Leonardo Cattarin</b>: Spontaneous four wave mixing in Silicon oxynitride and Silicon Nitride: how to generate and detect NIR correlated photon pairs;</li><li><b>Sebastiano Guaraldo</b>: A quantum photonic integrated SWAP test circuit for entanglement witness and randomness generation;</li><li><b>Marcello Summo</b>: Compact and efficient QKD photonic integrated device;</li><li><b>Alessio Baldazzi</b>: Variational quantum algorithms with integrated entangled photon sources.</li></ul>"
+          - title: "<ul><li><b>Luca Spagnoli</b><span>: Quantum Error Correction and Lattice Gauge Theories;</span></li><li><b>Luca Vespucci</b>:\_Quantum Simulation of interacting neutrinos;</li><li><b>Alberto Bottarelli &amp; Gopal Chandrasantra</b>:\_Quantum optimization for industrial applications;</li><li><b>Alex Windey &amp; David Pasqual Solis</b>: Quantum Simulation of the SYK model: from quantum chaos to cosmology.</li><li><b>Leonardo Cattarin</b>: Spontaneous four wave mixing in Silicon oxynitride and Silicon Nitride: how to generate and detect NIR correlated photon pairs;</li><li><b>Sebastiano Guaraldo</b>: A quantum photonic integrated SWAP test circuit for entanglement witness and randomness generation;</li><li><b>Marcello Summo</b>: Compact and efficient QKD photonic integrated device;</li><li><b>Alessio Baldazzi</b>: Variational quantum algorithms with integrated entangled photon sources;</li><li><b>Tomasz Zawiślak &amp; Marija Šindik</b>:\_Dipolar supersolids on a ring;</li><li><b>Pietro Oreglia</b>:\_Levitated quantum systems;</li><li><b>Chiara Rogora &amp; Diego Andreoni</b>:\_Superfluid spin mixtures;</li><li><b>Sukla Pal</b>: Open quantum systems, chain of strongly dissipative bosons.</li></ul>"
       - hour: '17:00'
         name: Closing Ceremony, Dinner, and Guided tour
         location:
