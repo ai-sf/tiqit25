@@ -239,7 +239,7 @@ schedule:
           room: B109
           tag: physunitn
         subactivities:
-          - title: '<a href="https://webapps.unitn.it/du/en/Persona/PER0212584/Curriculum"><b>Stefano Azzini</b></a><br><br>Topic: TBD'
+          - title: '<a href="https://webapps.unitn.it/du/en/Persona/PER0212584/Curriculum" target="_blank"><b>Stefano Azzini</b></a><br><br>Topic: Integrated sources of photon pairs'
       - hour: '11:20'
         name: Questions
         location:
@@ -253,7 +253,7 @@ schedule:
           room: B109
           tag: physunitn
         subactivities:
-          - title: '<a href="https://webapps.unitn.it/du/en/Persona/PER0145788/Didattica"><b>Alessio Baldazzi</b></a><br><br>Topic: TBD'
+          - title: '<a href="https://webapps.unitn.it/du/en/Persona/PER0145788/Didattica" target="_blank"><b>Alessio Baldazzi</b></a><br><br>Topic: Photonic variational quantum circuits'
       - hour: '11:50'
         name: Questions
         location:
@@ -334,7 +334,7 @@ schedule:
           room: B109
           tag: physunitn
         subactivities:
-          - title: <b><a href="https://webapps.unitn.it/du/en/Persona/PER0267083/" target="_blank">Matteo Wauters</a></b>
+          - title: <b><a href="https://webapps.unitn.it/du/en/Persona/PER0267083/" target="_blank">Matteo Wauters</a></b><br><br>Introduction to practical quantum computing with Qiskit
       - hour: '12:00'
         name: Lunch
         location:
@@ -357,6 +357,8 @@ schedule:
           name: Povo 2
           room: B108
           tag: physunitn
+        subactivities:
+          - title: "<a href=\"https://webapps.unitn.it/du/en/Persona/PER0198071/Didattica\">Raffaello Potestio</a>\_-\_<span>Coordinator\_</span><span>Doctoral programme</span><br><br><a href=\"https://webapps.unitn.it/du/en/Persona/PER0003921/Didattica\">Giacomo Baldi</a><br><a href=\"https://webapps.unitn.it/du/en/Persona/PER0001700/Curriculum\">Franco Dalfovo</a><br><a href=\"https://webapps.unitn.it/du/en/Persona/PER0003403/Didattica\">William Joseph Weber</a>"
       - hour: '15:00'
         name: Poster session
         location:
