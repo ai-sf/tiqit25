@@ -269,7 +269,7 @@ schedule:
           room: B109
           tag: physunitn
         subactivities:
-          - title: '<b>Topic: Integrated sources of photon pairs</b><br><b><br></b><br><a href="https://webapps.unitn.it/du/en/Persona/PER0212584/Curriculum" target="_blank"><u>Stefano Azzini</u></a>, NanoLab<b></b>'
+          - title: <b>Integrated sources of photon pairs</b><br><b><br></b><br><a href="https://webapps.unitn.it/du/en/Persona/PER0212584/Curriculum" target="_blank"><u>Stefano Azzini</u></a>, NanoLab<b></b>
       - hour: '11:30'
         name: Plenary lecture
         location:
@@ -277,7 +277,7 @@ schedule:
           room: B109
           tag: physunitn
         subactivities:
-          - title: '<b>Topic: Photonic variational quantum circuits,</b><br><b><br></b><br><a href="https://webapps.unitn.it/du/en/Persona/PER0145788/Didattica" target="_blank"><u>Alessio Baldazzi</u></a>, NanoLab'
+          - title: <b>Photonic variational quantum circuits,</b><br><b><br></b><br><a href="https://webapps.unitn.it/du/en/Persona/PER0145788/Didattica" target="_blank"><u>Alessio Baldazzi</u></a>, NanoLab
       - hour: '12:00'
         name: Lunch
         location:
@@ -380,13 +380,31 @@ schedule:
         subactivities:
           - title: "<ul><li><b>Luca Spagnoli</b><span>: Quantum Error Correction and Lattice Gauge Theories;</span></li><li><b>Luca Vespucci</b>:\_Quantum Simulation of interacting neutrinos;</li><li><b>Alberto Bottarelli &amp; Gopal Chandrasantra</b>:\_Quantum optimization for industrial applications;</li><li><b>Alex Windey &amp; David Pasqual Solis</b>: Quantum Simulation of the SYK model: from quantum chaos to cosmology.</li><li><b>Yong Kwon</b>: Quantum Computing Software Platform on Integrated Photonic Circuits;</li><li><b>Sebastiano Guaraldo</b>: A quantum photonic integrated SWAP test circuit for entanglement witness and randomness generation;</li><li><b>Marcello Summo</b>: Compact and efficient QKD photonic integrated device;</li><li><b>Alessio Baldazzi</b>: Variational quantum algorithms with integrated entangled photon sources;</li><li><b>Tomasz Zawiślak &amp; Marija Šindik</b>:\_Dipolar supersolids on a ring;</li><li><b>Pietro Oreglia</b>:\_Levitated quantum systems;</li><li><b>Chiara Rogora &amp; Diego Andreoni</b>:\_Superfluid spin mixtures;</li><li><b>Sukla Pal</b>: Open quantum systems, chain of strongly dissipative bosons.</li></ul>"
       - hour: '17:00'
-        name: Closing Ceremony, Dinner, and Guided tour
+        name: Clorsing Ceremony
+        location:
+          name: Museo Castello del Buonconsiglio, Via Bernardo Clesio, 5, 38122 Trento TN, Italia
+          room: Room TBD
+          tag: ''
+      - hour: '18:30'
+        name: Closing Ceremony
         location:
           name: Museo Castello del Buonconsiglio, Via Bernardo Clesio, 5, 38122 Trento TN, Italia
           room: Room TBD
           tag: ''
         subactivities:
-          - title: <b><a href="https://sd.fbk.eu/en/contacts/">Richard Wilton</a></b>
+          - title: <b><a href="https://sd.fbk.eu/en/contacts/" target="_blank"><u>Richard Wilton</u></a></b>
+      - hour: '19:10'
+        name: Dinner
+        location:
+          name: Museo Castello del Buonconsiglio, Via Bernardo Clesio, 5, 38122 Trento TN, Italia
+          room: Room TBD
+          tag: ''
+      - hour: '20:00'
+        name: Guided tour
+        location:
+          name: Museo Castello del Buonconsiglio, Via Bernardo Clesio, 5, 38122 Trento TN, Italia
+          room: Room TBD
+          tag: ''
   - day: Saturday
     date: 22/02/2025
     activity:
@@ -397,14 +415,6 @@ schedule:
           room: Giovane Europa, Via Torre Vanga, 11, 38122 Trento TN, Italia
           tag: ''
       - hour: '09:00'
-        name: Presentation
-        location:
-          name: Fondazione Bruno Kessler, Via Sommarive, 18, 38123 Povo TN, Italia
-          room: Room TBD
-          tag: ''
-        subactivities:
-          - title: <a href="https://sd.fbk.eu/en/">FBK</a>
-      - hour: '09:45'
         name: Lab tour
         location:
           name: Fondazione Bruno Kessler, Via Sommarive, 18, 38123 Povo TN, Italia
@@ -413,9 +423,11 @@ schedule:
       - hour: '11:00'
         name: Lunch
         location:
-          name: TBD
+          name: Trento TN, Italia
           room: Room TBD
           tag: ''
+        subactivities:
+          - title: <ul><li><a href="https://www.facebook.com/ibris.tn">Ibris</a>;</li><li><a href="https://www.lunellitrento.it/jcms/index.php">Lunelli</a></li></ul>
       - hour: '14:00'
         name: Guided Tour MUSE
         location:
