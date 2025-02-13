@@ -386,14 +386,6 @@ schedule:
           room: Room TBD
           tag: ''
       - hour: '18:30'
-        name: Closing Ceremony
-        location:
-          name: Museo Castello del Buonconsiglio, Via Bernardo Clesio, 5, 38122 Trento TN, Italia
-          room: Room TBD
-          tag: ''
-        subactivities:
-          - title: <b><a href="https://sd.fbk.eu/en/contacts/" target="_blank"><u>Richard Wilton</u></a></b>
-      - hour: '19:10'
         name: Dinner
         location:
           name: Museo Castello del Buonconsiglio, Via Bernardo Clesio, 5, 38122 Trento TN, Italia
@@ -415,6 +407,14 @@ schedule:
           room: Giovane Europa, Via Torre Vanga, 11, 38122 Trento TN, Italia
           tag: ''
       - hour: '09:00'
+        name: Presentation and final remarks
+        location:
+          name: FBK
+          room: Sala Stringa
+          tag: ''
+        subactivities:
+          - title: "<a href=\"https://sd.fbk.eu/en/people/detail/richard-hall-wilton/\">Richard John Hall-Wilton</a>,\_<span>Director of the Center for Sensors &amp; Devices (FBK - SD)</span>"
+      - hour: '10:00'
         name: Lab tour
         location:
           name: Fondazione Bruno Kessler, Via Sommarive, 18, 38123 Povo TN, Italia
