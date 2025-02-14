@@ -239,7 +239,7 @@ schedule:
           room: B109
           tag: physunitn
         subactivities:
-          - title: '<b>Topic: Ultracold gases in Trento,</b><br><br><a href="https://webapps.unitn.it/du/en/Persona/PER0000163" target="_blank">Chiara Menotti</a>,Pitaevskii Center for Bose-Einstein Condensation'
+          - title: '<b>Topic: Ultracold gases in Trento,</b><br><br><a href="https://webapps.unitn.it/du/en/Persona/PER0000163" target="_blank">Chiara Menotti</a>, Pitaevskii Center for Bose-Einstein Condensation'
       - hour: '09:30'
         name: Plenary lecture
         location:
@@ -247,7 +247,7 @@ schedule:
           room: B109
           tag: physunitn
         subactivities:
-          - title: '<b>Topic: Quantum spin mixtures,</b><br><br><a href="https://webapps.unitn.it/du/en/Persona/PER0120868/Didattica" target="_blank"><u>Giacomo Lamporesi</u></a>,Pitaevskii Center for Bose-Einstein Condensation<b></b>'
+          - title: '<b>Topic: Quantum spin mixtures,</b><br><br><a href="https://webapps.unitn.it/du/en/Persona/PER0120868/Didattica" target="_blank"><u>Giacomo Lamporesi</u></a>, Pitaevskii Center for Bose-Einstein Condensation<b></b>'
       - hour: '10:00'
         name: Plenary lecture
         location:
@@ -285,7 +285,7 @@ schedule:
           room: Room TBD
           tag: ''
         subactivities:
-          - title: <a href="https://www.pizzario.it/">Pizza Rio</a>
+          - title: <a href="https://saporidigastronomia.wordpress.com/home/" target="_blank"><u>Sapori di Gastronomia</u></a>
       - hour: '14:00'
         name: Lab tour
         location:
@@ -293,7 +293,7 @@ schedule:
           room: Labs
           tag: physunitn
         subactivities:
-          - title: <ul><li><a href="https://bec.science.unitn.it/BEC/0_Home.html">BEC</a>;</li><li><a href="https://nanolab.physics.unitn.it/index.php/facilities">Quantum optics &amp; photonics</a>;</li><li><a href="https://webapps.unitn.it/du/en/Persona/PER0022615/Progetti">Squeezing</a>.</li></ul>
+          - title: <ul><li><a href="https://bec.science.unitn.it/BEC/0_Home.html" target="_blank">BEC</a>;</li><li><a href="https://nanolab.physics.unitn.it/index.php/facilities" target="_blank">Quantum optics &amp; photonics</a>.</li></ul>
       - hour: '17:00'
         name: Free time
         location:
@@ -302,12 +302,14 @@ schedule:
           tag: ''
         subactivities:
           - title: '[Suggested dining places will be published]'
-      - hour: '20:00'
-        name: Treasure Hunt / Game night (if it rains)
+      - hour: '19:30'
+        name: Dinner
         location:
-          name: Trento, city center
+          name: Ristorante Pizzeria Rosa d'Oro, Piazza Santa Maria Maggiore, 21, 38122 Trento TN, Italia
           room: Room TBD
           tag: ''
+        subactivities:
+          - title: '<a href="https://www.ristoranterosadoro.com/">https://www.ristoranterosadoro.com/</a><br><br>Appetizer: chips<br>Pizza and drink'
   - day: Friday
     date: 21/02/2025
     activity:
@@ -354,7 +356,7 @@ schedule:
           room: Room TBD
           tag: ''
         subactivities:
-          - title: <a href="https://saporidigastronomia.wordpress.com/home/">Sapori di Gastronomia</a>
+          - title: <a href="https://www.pizzario.it/" target="_blank"><u>Pizza Rio</u></a>
       - hour: '14:00'
         name: Master presentation
         location:
@@ -379,12 +381,14 @@ schedule:
           tag: physunitn
         subactivities:
           - title: "<ul><li><b>Luca Spagnoli</b><span>: Quantum Error Correction and Lattice Gauge Theories;</span></li><li><b>Luca Vespucci</b>:\_Quantum Simulation of interacting neutrinos;</li><li><b>Alberto Bottarelli &amp; Gopal Chandrasantra</b>:\_Quantum optimization for industrial applications;</li><li><b>Alex Windey &amp; David Pasqual Solis</b>: Quantum Simulation of the SYK model: from quantum chaos to cosmology.</li><li><b>Yong Kwon</b>: Quantum Computing Software Platform on Integrated Photonic Circuits;</li><li><b>Sebastiano Guaraldo</b>: A quantum photonic integrated SWAP test circuit for entanglement witness and randomness generation;</li><li><b>Marcello Summo</b>: Compact and efficient QKD photonic integrated device;</li><li><b>Alessio Baldazzi</b>: Variational quantum algorithms with integrated entangled photon sources;</li><li><b>Tomasz Zawiślak &amp; Marija Šindik</b>:\_Dipolar supersolids on a ring;</li><li><b>Pietro Oreglia</b>:\_Levitated quantum systems;</li><li><b>Chiara Rogora &amp; Diego Andreoni</b>:\_Superfluid spin mixtures;</li><li><b>Sukla Pal</b>: Open quantum systems, chain of strongly dissipative bosons.</li></ul>"
-      - hour: '17:00'
+      - hour: '17:30'
         name: Clorsing Ceremony
         location:
           name: Museo Castello del Buonconsiglio, Via Bernardo Clesio, 5, 38122 Trento TN, Italia
           room: Room TBD
           tag: ''
+        subactivities:
+          - title: "Nicola Pretto - AISF Trento President<br><a href=\"https://webapps.unitn.it/du/en/Persona/PER0174693/Curriculum\" target=\"_blank\"><u>Gianluca Lattanzi</u></a>\_- Department of Physics Director"
       - hour: '18:30'
         name: Dinner
         location:
