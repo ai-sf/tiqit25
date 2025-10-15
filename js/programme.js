@@ -1,29 +1,29 @@
 const fs = require('fs');
 const yaml = require('js-yaml');
 const { google } = require('googleapis');
-const { authenticate } = require('@google-cloud/local-auth');
+// const { authenticate } = require('@google-cloud/local-auth');
 
 async function main() {
-    const auth = await authenticate({
-        keyfilePath: 'js/credentials.json',
-        scopes: ['https://www.googleapis.com/auth/calendar.readonly'],
-    });
+    // const auth = await authenticate({
+    //     keyfilePath: 'js/credentials.json',
+    //     scopes: ['https://www.googleapis.com/auth/calendar.readonly'],
+    // });
 
-    const calendar = google.calendar({ version: 'v3', auth });
+    const calendar = google.calendar({ version: 'v3'});
 
     const res = await calendar.events.list({
-        calendarId: 'c2d52a68ae67c82a0299a4a678f9fef81d38b2387dc336716933f86b3afe6b56@group.calendar.google.com',
-        timeMin: (new Date()).toISOString(),
+        calendarId: 'c2d52a68ae67c82a0299a4a678f9fef81d38b2387dc336716933f86b3afe6b56@group.calendar.google.com', 
+        key: 'AIzaSyCum8F_nQNtcNCjq_AbbOZjIGDFZhBVAHs',
         maxResults: 100,
         singleEvents: true,
         orderBy: 'startTime',
     });
 
     const events = res.data.items;
-    if (!events || events.length === 0) {
-        console.log('No upcoming events found.');
-        return;
-    }
+    // if (!events || events.length === 0) {
+    //     console.log('No upcoming events found.');
+    //     return;
+    // }
 
     const scheduleMap = events.reduce((acc, event) => {
         const start = event.start.dateTime || event.start.date;
